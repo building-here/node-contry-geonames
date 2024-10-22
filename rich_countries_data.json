@@ -1,0 +1,7472 @@
+[
+  {
+    "name_en": "Andorra",
+    "name_cn": "安道尔",
+    "capital": {
+      "name": "Andorra la Vella",
+      "latitude": 42.50779,
+      "longitude": 1.52109
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "ca",
+      "geonameId": 3041565,
+      "isoAlpha3": "AND",
+      "isoNumeric": "020",
+      "fipsCode": "AN",
+      "population": "77006",
+      "areaInSqKm": "468.0",
+      "countryCode": "AD",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "AD###"
+    },
+    "geography": {
+      "north": 42.655887500000006,
+      "south": 42.4287475,
+      "east": 1.7866939,
+      "west": 1.4135734
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "United Arab Emirates",
+    "name_cn": "阿联酋",
+    "capital": {
+      "name": "Abu Dhabi",
+      "latitude": 24.45118,
+      "longitude": 54.39696
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-AE,fa,en,hi,ur",
+      "geonameId": 290557,
+      "isoAlpha3": "ARE",
+      "isoNumeric": "784",
+      "fipsCode": "AE",
+      "population": "9630959",
+      "areaInSqKm": "82880.0",
+      "countryCode": "AE",
+      "currencyCode": "AED",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 26.0693916590001,
+      "south": 22.6315119400001,
+      "east": 56.381222289,
+      "west": 51.5904085340001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Afghanistan",
+    "name_cn": "阿富汗",
+    "capital": {
+      "name": "Kabul",
+      "latitude": 34.52813,
+      "longitude": 69.17233
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "fa-AF,ps,uz-AF,tk",
+      "geonameId": 1149361,
+      "isoAlpha3": "AFG",
+      "isoNumeric": "004",
+      "fipsCode": "AF",
+      "population": "37172386",
+      "areaInSqKm": "647500.0",
+      "countryCode": "AF",
+      "currencyCode": "AFN",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 38.4907920755748,
+      "south": 29.3770645357176,
+      "east": 74.8894511481168,
+      "west": 60.4720833972263
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Antigua and Barbuda",
+    "name_cn": "Antigua and Barbuda",
+    "capital": {
+      "name": "St John's",
+      "latitude": 17.12096,
+      "longitude": -61.84329
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-AG",
+      "geonameId": 3576396,
+      "isoAlpha3": "ATG",
+      "isoNumeric": "028",
+      "fipsCode": "AC",
+      "population": "96286",
+      "areaInSqKm": "443.0",
+      "countryCode": "AG",
+      "currencyCode": "XCD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 17.729482678,
+      "south": 16.997852913000003,
+      "east": -61.673633812000006,
+      "west": -61.906386729000005
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Anguilla",
+    "name_cn": "Anguilla",
+    "capital": {
+      "name": "The Valley",
+      "latitude": 18.21704,
+      "longitude": -63.05783
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-AI",
+      "geonameId": 3573511,
+      "isoAlpha3": "AIA",
+      "isoNumeric": "660",
+      "fipsCode": "AV",
+      "population": "13254",
+      "areaInSqKm": "102.0",
+      "countryCode": "AI",
+      "currencyCode": "XCD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 18.276289043000002,
+      "south": 18.15961884,
+      "east": -62.965782689,
+      "west": -63.172970186
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Albania",
+    "name_cn": "阿尔巴尼亚",
+    "capital": {
+      "name": "Tirana",
+      "latitude": 41.3275,
+      "longitude": 19.81889
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "sq,el",
+      "geonameId": 783754,
+      "isoAlpha3": "ALB",
+      "isoNumeric": "008",
+      "fipsCode": "AL",
+      "population": "2866376",
+      "areaInSqKm": "28748.0",
+      "countryCode": "AL",
+      "currencyCode": "ALL",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 42.6611669383269,
+      "south": 39.6448624829142,
+      "east": 21.0574334835312,
+      "west": 19.2639112711741
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Armenia",
+    "name_cn": "亚美尼亚",
+    "capital": {
+      "name": "Yerevan",
+      "latitude": 40.18111,
+      "longitude": 44.51361
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "hy",
+      "geonameId": 174982,
+      "isoAlpha3": "ARM",
+      "isoNumeric": "051",
+      "fipsCode": "AM",
+      "population": "2951776",
+      "areaInSqKm": "29800.0",
+      "countryCode": "AM",
+      "currencyCode": "AMD",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 41.3009930000001,
+      "south": 38.840244,
+      "east": 46.6342220000001,
+      "west": 43.447417525
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Angola",
+    "name_cn": "安哥拉",
+    "capital": {
+      "name": "Luanda",
+      "latitude": -8.83682,
+      "longitude": 13.23432
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "pt-AO",
+      "geonameId": 3351879,
+      "isoAlpha3": "AGO",
+      "isoNumeric": "024",
+      "fipsCode": "AO",
+      "population": "30809762",
+      "areaInSqKm": "1246700.0",
+      "countryCode": "AO",
+      "currencyCode": "AOA",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -4.3880634,
+      "south": -18.039104000000002,
+      "east": 24.0878856,
+      "west": 11.670196277
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Antarctica",
+    "name_cn": "Antarctica",
+    "capital": {
+      "name": "",
+      "latitude": -78.58333,
+      "longitude": -85.41667
+    },
+    "info": {
+      "continent": "AN",
+      "languages": "",
+      "geonameId": 6697173,
+      "isoAlpha3": "ATA",
+      "isoNumeric": "010",
+      "fipsCode": "AY",
+      "population": "0",
+      "areaInSqKm": "1.4E7",
+      "countryCode": "AQ",
+      "currencyCode": "",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -60.515533,
+      "south": -89.9999,
+      "east": 179.9999,
+      "west": -179.9999
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Argentina",
+    "name_cn": "阿根廷",
+    "capital": {
+      "name": "Buenos Aires",
+      "latitude": -34.61315,
+      "longitude": -58.37723
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "es-AR,en,it,de,fr,gn",
+      "geonameId": 3865483,
+      "isoAlpha3": "ARG",
+      "isoNumeric": "032",
+      "fipsCode": "AR",
+      "population": "44494502",
+      "areaInSqKm": "2766890.0",
+      "countryCode": "AR",
+      "currencyCode": "ARS",
+      "postalCodeFormat": "@####@@@"
+    },
+    "geography": {
+      "north": -21.777951173,
+      "south": -55.0576984539999,
+      "east": -53.637962552,
+      "west": -73.566302817
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "American Samoa",
+    "name_cn": "American Samoa",
+    "capital": {
+      "name": "Pago Pago",
+      "latitude": -14.27806,
+      "longitude": -170.7025
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-AS,sm,to",
+      "geonameId": 5880801,
+      "isoAlpha3": "ASM",
+      "isoNumeric": "016",
+      "fipsCode": "AQ",
+      "population": "55465",
+      "areaInSqKm": "199.0",
+      "countryCode": "AS",
+      "currencyCode": "USD",
+      "postalCodeFormat": "#####-####"
+    },
+    "geography": {
+      "north": -11.047857,
+      "south": -14.373776,
+      "east": -169.418925,
+      "west": -171.090042
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Austria",
+    "name_cn": "奥地利",
+    "capital": {
+      "name": "Vienna",
+      "latitude": 48.20849,
+      "longitude": 16.37208
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "de-AT,hr,hu,sl",
+      "geonameId": 2782113,
+      "isoAlpha3": "AUT",
+      "isoNumeric": "040",
+      "fipsCode": "AU",
+      "population": "8847037",
+      "areaInSqKm": "83858.0",
+      "countryCode": "AT",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 49.0211627691393,
+      "south": 46.3726520216244,
+      "east": 17.1620685652599,
+      "west": 9.53095237240833
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Australia",
+    "name_cn": "澳大利亚",
+    "capital": {
+      "name": "Canberra",
+      "latitude": -35.28346,
+      "longitude": 149.12807
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-AU",
+      "geonameId": 2077456,
+      "isoAlpha3": "AUS",
+      "isoNumeric": "036",
+      "fipsCode": "AS",
+      "population": "24992369",
+      "areaInSqKm": "7686850.0",
+      "countryCode": "AU",
+      "currencyCode": "AUD",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": -10.059130975,
+      "south": -43.643194904,
+      "east": 153.638727019,
+      "west": 112.921113949
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Aruba",
+    "name_cn": "Aruba",
+    "capital": {
+      "name": "Oranjestad",
+      "latitude": 12.52398,
+      "longitude": -70.02703
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "nl-AW,pap,es,en",
+      "geonameId": 3577279,
+      "isoAlpha3": "ABW",
+      "isoNumeric": "533",
+      "fipsCode": "AA",
+      "population": "105845",
+      "areaInSqKm": "193.0",
+      "countryCode": "AW",
+      "currencyCode": "AWG",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 12.623131233,
+      "south": 12.412106778,
+      "east": -69.866001173,
+      "west": -70.06347981500001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Åland",
+    "name_cn": "Åland",
+    "capital": {
+      "name": "Mariehamn",
+      "latitude": 60.09726,
+      "longitude": 19.93481
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "sv-AX",
+      "geonameId": 661882,
+      "isoAlpha3": "ALA",
+      "isoNumeric": "248",
+      "fipsCode": "",
+      "population": "26711",
+      "areaInSqKm": "1580.0",
+      "countryCode": "AX",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 60.49399356200001,
+      "south": 59.90135939300001,
+      "east": 21.021359934000003,
+      "west": 19.310969323000002
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Azerbaijan",
+    "name_cn": "阿塞拜疆",
+    "capital": {
+      "name": "Baku",
+      "latitude": 40.37767,
+      "longitude": 49.89201
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "az,ru,hy",
+      "geonameId": 587116,
+      "isoAlpha3": "AZE",
+      "isoNumeric": "031",
+      "fipsCode": "AJ",
+      "population": "9942334",
+      "areaInSqKm": "86600.0",
+      "countryCode": "AZ",
+      "currencyCode": "AZN",
+      "postalCodeFormat": "AZ ####"
+    },
+    "geography": {
+      "north": 41.9123400010001,
+      "south": 38.3922170010001,
+      "east": 50.3700828550001,
+      "west": 44.764683001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Bosnia and Herzegovina",
+    "name_cn": "波斯尼亚和黑塞哥维那",
+    "capital": {
+      "name": "Sarajevo",
+      "latitude": 43.84864,
+      "longitude": 18.35644
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "bs,hr-BA,sr-BA",
+      "geonameId": 3277605,
+      "isoAlpha3": "BIH",
+      "isoNumeric": "070",
+      "fipsCode": "BK",
+      "population": "3323929",
+      "areaInSqKm": "51129.0",
+      "countryCode": "BA",
+      "currencyCode": "BAM",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 45.276539649,
+      "south": 42.555473846,
+      "east": 19.6237016800001,
+      "west": 15.728732108
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Barbados",
+    "name_cn": "巴巴多斯",
+    "capital": {
+      "name": "Bridgetown",
+      "latitude": 13.10732,
+      "longitude": -59.62021
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-BB",
+      "geonameId": 3374084,
+      "isoAlpha3": "BRB",
+      "isoNumeric": "052",
+      "fipsCode": "BB",
+      "population": "286641",
+      "areaInSqKm": "431.0",
+      "countryCode": "BB",
+      "currencyCode": "BBD",
+      "postalCodeFormat": "BB#####"
+    },
+    "geography": {
+      "north": 13.335128143,
+      "south": 13.044896628,
+      "east": -59.420396444000005,
+      "west": -59.651011138
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Bangladesh",
+    "name_cn": "孟加拉国",
+    "capital": {
+      "name": "Dhaka",
+      "latitude": 23.7104,
+      "longitude": 90.40744
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "bn-BD,en",
+      "geonameId": 1210997,
+      "isoAlpha3": "BGD",
+      "isoNumeric": "050",
+      "fipsCode": "BG",
+      "population": "161356039",
+      "areaInSqKm": "144000.0",
+      "countryCode": "BD",
+      "currencyCode": "BDT",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 23.526564698,
+      "south": 21.719218206,
+      "east": 91.896540435,
+      "west": 89.032430407
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Belgium",
+    "name_cn": "比利时",
+    "capital": {
+      "name": "Brussels",
+      "latitude": 50.85045,
+      "longitude": 4.34878
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "nl-BE,fr-BE,de-BE",
+      "geonameId": 2802361,
+      "isoAlpha3": "BEL",
+      "isoNumeric": "056",
+      "fipsCode": "BE",
+      "population": "11422068",
+      "areaInSqKm": "30510.0",
+      "countryCode": "BE",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 51.5051118897455,
+      "south": 49.496968483036,
+      "east": 6.40793743953125,
+      "west": 2.54132898439873
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Burkina Faso",
+    "name_cn": "布基纳法索",
+    "capital": {
+      "name": "Ouagadougou",
+      "latitude": 12.36566,
+      "longitude": -1.53388
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-BF,mos",
+      "geonameId": 2361809,
+      "isoAlpha3": "BFA",
+      "isoNumeric": "854",
+      "fipsCode": "UV",
+      "population": "19751535",
+      "areaInSqKm": "274200.0",
+      "countryCode": "BF",
+      "currencyCode": "XOF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 15.084033447,
+      "south": 9.41047177500008,
+      "east": 2.40435976900005,
+      "west": -5.51324157299996
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Bulgaria",
+    "name_cn": "保加利亚",
+    "capital": {
+      "name": "Sofia",
+      "latitude": 42.69751,
+      "longitude": 23.32415
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "bg,tr-BG,rom",
+      "geonameId": 732800,
+      "isoAlpha3": "BGR",
+      "isoNumeric": "100",
+      "fipsCode": "BU",
+      "population": "7000039",
+      "areaInSqKm": "110910.0",
+      "countryCode": "BG",
+      "currencyCode": "BGN",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 44.2154806,
+      "south": 41.235341500000004,
+      "east": 28.607429551000003,
+      "west": 22.357156800000002
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Bahrain",
+    "name_cn": "巴林",
+    "capital": {
+      "name": "Manama",
+      "latitude": 26.22787,
+      "longitude": 50.58565
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-BH,en,fa,ur",
+      "geonameId": 290291,
+      "isoAlpha3": "BHR",
+      "isoNumeric": "048",
+      "fipsCode": "BA",
+      "population": "1569439",
+      "areaInSqKm": "665.0",
+      "countryCode": "BH",
+      "currencyCode": "BHD",
+      "postalCodeFormat": "####|###"
+    },
+    "geography": {
+      "north": 26.3308150010001,
+      "south": 25.790910001,
+      "east": 50.720622,
+      "west": 50.3158550000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Burundi",
+    "name_cn": "布隆迪",
+    "capital": {
+      "name": "Gitega",
+      "latitude": -3.42708,
+      "longitude": 29.92463
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-BI,rn",
+      "geonameId": 433561,
+      "isoAlpha3": "BDI",
+      "isoNumeric": "108",
+      "fipsCode": "BY",
+      "population": "11175378",
+      "areaInSqKm": "27830.0",
+      "countryCode": "BI",
+      "currencyCode": "BIF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -2.30973016299993,
+      "south": -4.46932899899997,
+      "east": 30.84954,
+      "west": 29.0009680000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Benin",
+    "name_cn": "贝宁",
+    "capital": {
+      "name": "Porto-Novo",
+      "latitude": 6.49646,
+      "longitude": 2.60359
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-BJ",
+      "geonameId": 2395170,
+      "isoAlpha3": "BEN",
+      "isoNumeric": "204",
+      "fipsCode": "BN",
+      "population": "11485048",
+      "areaInSqKm": "112620.0",
+      "countryCode": "BJ",
+      "currencyCode": "XOF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 12.4086110000001,
+      "south": 6.23477794100006,
+      "east": 3.84306303800003,
+      "west": 0.775412326000037
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Saint Barthélemy",
+    "name_cn": "Saint Barthélemy",
+    "capital": {
+      "name": "Gustavia",
+      "latitude": 17.89618,
+      "longitude": -62.84978
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "fr",
+      "geonameId": 3578476,
+      "isoAlpha3": "BLM",
+      "isoNumeric": "652",
+      "fipsCode": "TB",
+      "population": "8450",
+      "areaInSqKm": "21.0",
+      "countryCode": "BL",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 17.928808791949283,
+      "south": 17.878183227405575,
+      "east": -62.788983372985854,
+      "west": -62.8739118253784
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Bermuda",
+    "name_cn": "Bermuda",
+    "capital": {
+      "name": "Hamilton",
+      "latitude": 32.2949,
+      "longitude": -64.78303
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-BM,pt",
+      "geonameId": 3573345,
+      "isoAlpha3": "BMU",
+      "isoNumeric": "060",
+      "fipsCode": "BD",
+      "population": "63968",
+      "areaInSqKm": "53.0",
+      "countryCode": "BM",
+      "currencyCode": "BMD",
+      "postalCodeFormat": "@@ ##"
+    },
+    "geography": {
+      "north": 32.3909785046382,
+      "south": 32.247240870129,
+      "east": -64.6473267161152,
+      "west": -64.8870418687384
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Brunei",
+    "name_cn": "文莱",
+    "capital": {
+      "name": "Bandar Seri Begawan",
+      "latitude": 4.89035,
+      "longitude": 114.94006
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ms-BN,en-BN",
+      "geonameId": 1820814,
+      "isoAlpha3": "BRN",
+      "isoNumeric": "096",
+      "fipsCode": "BX",
+      "population": "428962",
+      "areaInSqKm": "5770.0",
+      "countryCode": "BN",
+      "currencyCode": "BND",
+      "postalCodeFormat": "@@####"
+    },
+    "geography": {
+      "north": 5.04571171901151,
+      "south": 4.00264384400003,
+      "east": 115.364671704,
+      "west": 114.075926291
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Bolivia",
+    "name_cn": "玻利维亚",
+    "capital": {
+      "name": "Sucre",
+      "latitude": -19.03332,
+      "longitude": -65.26274
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "es-BO,qu,ay",
+      "geonameId": 3923057,
+      "isoAlpha3": "BOL",
+      "isoNumeric": "068",
+      "fipsCode": "BL",
+      "population": "11353142",
+      "areaInSqKm": "1098580.0",
+      "countryCode": "BO",
+      "currencyCode": "BOB",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -9.66932299899997,
+      "south": -22.89809,
+      "east": -57.4538029999999,
+      "west": -69.644939573
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Bonaire, Sint Eustatius, and Saba",
+    "name_cn": "Bonaire, Sint Eustatius, and Saba",
+    "capital": {
+      "name": "Kralendijk",
+      "latitude": 12.15,
+      "longitude": -68.26667
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "nl,pap,en",
+      "geonameId": 7626844,
+      "isoAlpha3": "BES",
+      "isoNumeric": "535",
+      "fipsCode": "",
+      "population": "18012",
+      "areaInSqKm": "328.0",
+      "countryCode": "BQ",
+      "currencyCode": "USD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 12.311868424,
+      "south": 12.025647971000001,
+      "east": -68.195332674,
+      "west": -68.421178846
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Brazil",
+    "name_cn": "巴西",
+    "capital": {
+      "name": "Brasília",
+      "latitude": -10,
+      "longitude": -55
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "pt-BR,es,en,fr",
+      "geonameId": 3469034,
+      "isoAlpha3": "BRA",
+      "isoNumeric": "076",
+      "fipsCode": "BR",
+      "population": "209469333",
+      "areaInSqKm": "8511965.0",
+      "countryCode": "BR",
+      "currencyCode": "BRL",
+      "postalCodeFormat": "#####-###"
+    },
+    "geography": {
+      "north": 5.2717863,
+      "south": -32.655733109,
+      "east": -32.391076267,
+      "west": -73.98281700000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Bahamas",
+    "name_cn": "巴哈马",
+    "capital": {
+      "name": "Nassau",
+      "latitude": 25.05823,
+      "longitude": -77.34306
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-BS",
+      "geonameId": 3572887,
+      "isoAlpha3": "BHS",
+      "isoNumeric": "044",
+      "fipsCode": "BF",
+      "population": "385640",
+      "areaInSqKm": "13940.0",
+      "countryCode": "BS",
+      "currencyCode": "BSD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 26.919243,
+      "south": 22.852743,
+      "east": -74.423874,
+      "west": -78.999528159018
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Bhutan",
+    "name_cn": "不丹",
+    "capital": {
+      "name": "Thimphu",
+      "latitude": 27.46609,
+      "longitude": 89.64191
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "dz",
+      "geonameId": 1252634,
+      "isoAlpha3": "BTN",
+      "isoNumeric": "064",
+      "fipsCode": "BT",
+      "population": "754394",
+      "areaInSqKm": "47000.0",
+      "countryCode": "BT",
+      "currencyCode": "BTN",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 28.246987001,
+      "south": 26.702020985,
+      "east": 92.12523192,
+      "west": 88.7455215570001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Bouvet Island",
+    "name_cn": "Bouvet Island",
+    "capital": {
+      "name": "",
+      "latitude": -54.40917,
+      "longitude": 3.35278
+    },
+    "info": {
+      "continent": "AN",
+      "languages": "",
+      "geonameId": 3371123,
+      "isoAlpha3": "BVT",
+      "isoNumeric": "074",
+      "fipsCode": "BV",
+      "population": "0",
+      "areaInSqKm": "49.0",
+      "countryCode": "BV",
+      "currencyCode": "NOK",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -54.38673682300001,
+      "south": -54.452306883000006,
+      "east": 3.43339585,
+      "west": 3.286359958
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Botswana",
+    "name_cn": "博茨瓦纳",
+    "capital": {
+      "name": "Gaborone",
+      "latitude": -24.65451,
+      "longitude": 25.90859
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-BW,tn-BW",
+      "geonameId": 933860,
+      "isoAlpha3": "BWA",
+      "isoNumeric": "072",
+      "fipsCode": "BC",
+      "population": "2254126",
+      "areaInSqKm": "600370.0",
+      "countryCode": "BW",
+      "currencyCode": "BWP",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -17.778136999,
+      "south": -26.907545,
+      "east": 29.375304,
+      "west": 19.998903
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Belarus",
+    "name_cn": "白俄罗斯",
+    "capital": {
+      "name": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "be,ru",
+      "geonameId": 630336,
+      "isoAlpha3": "BLR",
+      "isoNumeric": "112",
+      "fipsCode": "BO",
+      "population": "9485386",
+      "areaInSqKm": "207600.0",
+      "countryCode": "BY",
+      "currencyCode": "BYN",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 56.1724940010001,
+      "south": 51.262011,
+      "east": 32.776820001,
+      "west": 23.1781980010001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Belize",
+    "name_cn": "伯利兹",
+    "capital": {
+      "name": "Belmopan",
+      "latitude": 17.25,
+      "longitude": -88.76667
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-BZ,es",
+      "geonameId": 3582678,
+      "isoAlpha3": "BLZ",
+      "isoNumeric": "084",
+      "fipsCode": "BH",
+      "population": "383071",
+      "areaInSqKm": "22966.0",
+      "countryCode": "BZ",
+      "currencyCode": "BZD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 18.495942,
+      "south": 15.885619,
+      "east": -87.76179484000001,
+      "west": -89.22758800000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Canada",
+    "name_cn": "加拿大",
+    "capital": {
+      "name": "Ottawa",
+      "latitude": 45.41117,
+      "longitude": -75.69812
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-CA,fr-CA,iu",
+      "geonameId": 6251999,
+      "isoAlpha3": "CAN",
+      "isoNumeric": "124",
+      "fipsCode": "CA",
+      "population": "37058856",
+      "areaInSqKm": "9984670.0",
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "postalCodeFormat": "@#@ #@#"
+    },
+    "geography": {
+      "north": 83.113214493,
+      "south": 41.6765678,
+      "east": -52.619079929,
+      "west": -141.0018584
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Cocos (Keeling) Islands",
+    "name_cn": "Cocos (Keeling) Islands",
+    "capital": {
+      "name": "West Island",
+      "latitude": -12.15681,
+      "longitude": 96.82251
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ms-CC,en",
+      "geonameId": 1547376,
+      "isoAlpha3": "CCK",
+      "isoNumeric": "166",
+      "fipsCode": "CK",
+      "population": "628",
+      "areaInSqKm": "14.0",
+      "countryCode": "CC",
+      "currencyCode": "AUD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -12.072459094,
+      "south": -12.208725839,
+      "east": 96.929489344,
+      "west": 96.816941408
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "DR Congo",
+    "name_cn": "DR Congo",
+    "capital": {
+      "name": "Kinshasa",
+      "latitude": -4.32758,
+      "longitude": 15.31357
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-CD,ln,ktu,kg,sw,lua",
+      "geonameId": 203312,
+      "isoAlpha3": "COD",
+      "isoNumeric": "180",
+      "fipsCode": "CG",
+      "population": "84068091",
+      "areaInSqKm": "2345410.0",
+      "countryCode": "CD",
+      "currencyCode": "CDF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 5.39200300000005,
+      "south": -13.459034999,
+      "east": 31.3146120000001,
+      "west": 12.202361491
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Central African Republic",
+    "name_cn": "中非共和国",
+    "capital": {
+      "name": "Bangui",
+      "latitude": 4.36122,
+      "longitude": 18.55496
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-CF,sg,ln,kg",
+      "geonameId": 239880,
+      "isoAlpha3": "CAF",
+      "isoNumeric": "140",
+      "fipsCode": "CT",
+      "population": "4666377",
+      "areaInSqKm": "622984.0",
+      "countryCode": "CF",
+      "currencyCode": "XAF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 11.017957,
+      "south": 2.22305300000005,
+      "east": 27.4583050000001,
+      "west": 14.4150980000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Congo Republic",
+    "name_cn": "Congo Republic",
+    "capital": {
+      "name": "Brazzaville",
+      "latitude": -4.26613,
+      "longitude": 15.28318
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-CG,kg,ln-CG",
+      "geonameId": 2260494,
+      "isoAlpha3": "COG",
+      "isoNumeric": "178",
+      "fipsCode": "CF",
+      "population": "5244363",
+      "areaInSqKm": "342000.0",
+      "countryCode": "CG",
+      "currencyCode": "XAF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 3.70779100000004,
+      "south": -5.04072158799994,
+      "east": 18.65042119,
+      "west": 11.1520760600001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Switzerland",
+    "name_cn": "瑞士",
+    "capital": {
+      "name": "Bern",
+      "latitude": 46.94809,
+      "longitude": 7.44744
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "de-CH,fr-CH,it-CH,rm",
+      "geonameId": 2658434,
+      "isoAlpha3": "CHE",
+      "isoNumeric": "756",
+      "fipsCode": "SZ",
+      "population": "8516543",
+      "areaInSqKm": "41290.0",
+      "countryCode": "CH",
+      "currencyCode": "CHF",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 47.8098679329775,
+      "south": 45.8191539516188,
+      "east": 10.4934735095497,
+      "west": 5.95661377423453
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Ivory Coast",
+    "name_cn": "Ivory Coast",
+    "capital": {
+      "name": "Yamoussoukro",
+      "latitude": 6.82055,
+      "longitude": -5.27674
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-CI",
+      "geonameId": 2287781,
+      "isoAlpha3": "CIV",
+      "isoNumeric": "384",
+      "fipsCode": "IV",
+      "population": "25069229",
+      "areaInSqKm": "322460.0",
+      "countryCode": "CI",
+      "currencyCode": "XOF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 10.740015,
+      "south": 4.36035248000007,
+      "east": -2.49303099999997,
+      "west": -8.60205899999994
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Cook Islands",
+    "name_cn": "Cook Islands",
+    "capital": {
+      "name": "Avarua",
+      "latitude": -21.2075,
+      "longitude": -159.77546
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-CK,mi",
+      "geonameId": 1899402,
+      "isoAlpha3": "COK",
+      "isoNumeric": "184",
+      "fipsCode": "CW",
+      "population": "21388",
+      "areaInSqKm": "240.0",
+      "countryCode": "CK",
+      "currencyCode": "NZD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -10.024169,
+      "south": -21.958539727,
+      "east": -157.32204534500002,
+      "west": -161.105922999
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Chile",
+    "name_cn": "智利",
+    "capital": {
+      "name": "Santiago",
+      "latitude": -33.45694,
+      "longitude": -70.64827
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "es-CL",
+      "geonameId": 3895114,
+      "isoAlpha3": "CHL",
+      "isoNumeric": "152",
+      "fipsCode": "CI",
+      "population": "18729160",
+      "areaInSqKm": "756950.0",
+      "countryCode": "CL",
+      "currencyCode": "CLP",
+      "postalCodeFormat": "#######"
+    },
+    "geography": {
+      "north": -17.4977759459999,
+      "south": -55.909795409,
+      "east": -66.416152278,
+      "west": -80.8370287079999
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Cameroon",
+    "name_cn": "喀麦隆",
+    "capital": {
+      "name": "Yaoundé",
+      "latitude": 3.86667,
+      "longitude": 11.51667
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-CM,fr-CM",
+      "geonameId": 2233387,
+      "isoAlpha3": "CMR",
+      "isoNumeric": "120",
+      "fipsCode": "CM",
+      "population": "25216237",
+      "areaInSqKm": "475440.0",
+      "countryCode": "CM",
+      "currencyCode": "XAF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 13.083334,
+      "south": 1.65590000000003,
+      "east": 16.1944080000001,
+      "west": 8.49843402900007
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "China",
+    "name_cn": "中国",
+    "capital": {
+      "name": "Beijing",
+      "latitude": 39.9075,
+      "longitude": 116.39723
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "zh-CN,yue,wuu,dta,ug,za",
+      "geonameId": 1814991,
+      "isoAlpha3": "CHN",
+      "isoNumeric": "156",
+      "fipsCode": "CH",
+      "population": "1411778724",
+      "areaInSqKm": "9596960.0",
+      "countryCode": "CN",
+      "currencyCode": "CNY",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 53.560974001,
+      "south": 15.775416,
+      "east": 134.7754563,
+      "west": 73.4994140000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Colombia",
+    "name_cn": "哥伦比亚",
+    "capital": {
+      "name": "Bogotá",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "es-CO",
+      "geonameId": 3686110,
+      "isoAlpha3": "COL",
+      "isoNumeric": "170",
+      "fipsCode": "CO",
+      "population": "49648685",
+      "areaInSqKm": "1138910.0",
+      "countryCode": "CO",
+      "currencyCode": "COP",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 13.38600323,
+      "south": -4.22839224299997,
+      "east": -66.8472153989999,
+      "west": -81.735775648
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Costa Rica",
+    "name_cn": "哥斯达黎加",
+    "capital": {
+      "name": "San José",
+      "latitude": 9.93333,
+      "longitude": -84.08333
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "es-CR,en",
+      "geonameId": 3624060,
+      "isoAlpha3": "CRI",
+      "isoNumeric": "188",
+      "fipsCode": "CS",
+      "population": "4999441",
+      "areaInSqKm": "51100.0",
+      "countryCode": "CR",
+      "currencyCode": "CRC",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 11.2197589122308,
+      "south": 8.03962731803416,
+      "east": -82.552318987959,
+      "west": -85.9502523586265
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Cuba",
+    "name_cn": "古巴",
+    "capital": {
+      "name": "Havana",
+      "latitude": 23.13302,
+      "longitude": -82.38304
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "es-CU,pap",
+      "geonameId": 3562981,
+      "isoAlpha3": "CUB",
+      "isoNumeric": "192",
+      "fipsCode": "CU",
+      "population": "11338138",
+      "areaInSqKm": "110860.0",
+      "countryCode": "CU",
+      "currencyCode": "CUP",
+      "postalCodeFormat": "CP #####"
+    },
+    "geography": {
+      "north": 23.205106375,
+      "south": 19.826172913,
+      "east": -74.131757291,
+      "west": -84.952245207
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Cabo Verde",
+    "name_cn": "佛得角",
+    "capital": {
+      "name": "Praia",
+      "latitude": 14.93152,
+      "longitude": -23.51254
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "pt-CV",
+      "geonameId": 3374766,
+      "isoAlpha3": "CPV",
+      "isoNumeric": "132",
+      "fipsCode": "CV",
+      "population": "543767",
+      "areaInSqKm": "4033.0",
+      "countryCode": "CV",
+      "currencyCode": "CVE",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 17.206296667,
+      "south": 14.812322458,
+      "east": -22.664677706000003,
+      "west": -25.361204280000003
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Curaçao",
+    "name_cn": "Curaçao",
+    "capital": {
+      "name": "Willemstad",
+      "latitude": 12.12246,
+      "longitude": -68.88641
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "nl,pap",
+      "geonameId": 7626836,
+      "isoAlpha3": "CUW",
+      "isoNumeric": "531",
+      "fipsCode": "UC",
+      "population": "159849",
+      "areaInSqKm": "444.0",
+      "countryCode": "CW",
+      "currencyCode": "ANG",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 12.392445451,
+      "south": 12.034003977000001,
+      "east": -68.736739869,
+      "west": -69.162557726
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Christmas Island",
+    "name_cn": "Christmas Island",
+    "capital": {
+      "name": "Flying Fish Cove",
+      "latitude": -10.42172,
+      "longitude": 105.67912
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en,zh,ms-CX",
+      "geonameId": 2078138,
+      "isoAlpha3": "CXR",
+      "isoNumeric": "162",
+      "fipsCode": "KT",
+      "population": "1500",
+      "areaInSqKm": "135.0",
+      "countryCode": "CX",
+      "currencyCode": "AUD",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": -10.412356007,
+      "south": -10.5704829995,
+      "east": 105.712596992,
+      "west": 105.533276992
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Cyprus",
+    "name_cn": "塞浦路斯",
+    "capital": {
+      "name": "Nicosia",
+      "latitude": 35.17531,
+      "longitude": 33.3642
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "el-CY,tr-CY,en",
+      "geonameId": 146669,
+      "isoAlpha3": "CYP",
+      "isoNumeric": "196",
+      "fipsCode": "CY",
+      "population": "1189265",
+      "areaInSqKm": "9250.0",
+      "countryCode": "CY",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 35.69493443939431,
+      "south": 34.632303001,
+      "east": 34.5877096808548,
+      "west": 32.271016385336786
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Czechia",
+    "name_cn": "Czechia",
+    "capital": {
+      "name": "Prague",
+      "latitude": 50.08804,
+      "longitude": 14.42076
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "cs,sk",
+      "geonameId": 3077311,
+      "isoAlpha3": "CZE",
+      "isoNumeric": "203",
+      "fipsCode": "EZ",
+      "population": "10625695",
+      "areaInSqKm": "78866.0",
+      "countryCode": "CZ",
+      "currencyCode": "CZK",
+      "postalCodeFormat": "### ##"
+    },
+    "geography": {
+      "north": 51.0557782422661,
+      "south": 48.551892864201,
+      "east": 18.8592743799298,
+      "west": 12.0906691601139
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Germany",
+    "name_cn": "德国",
+    "capital": {
+      "name": "Berlin",
+      "latitude": 52.52437,
+      "longitude": 13.41053
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "de",
+      "geonameId": 2921044,
+      "isoAlpha3": "DEU",
+      "isoNumeric": "276",
+      "fipsCode": "GM",
+      "population": "82927922",
+      "areaInSqKm": "357021.0",
+      "countryCode": "DE",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 55.0583836008072,
+      "south": 47.2701236047002,
+      "east": 15.0418156516163,
+      "west": 5.8663152683722
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Djibouti",
+    "name_cn": "吉布提",
+    "capital": {
+      "name": "Djibouti",
+      "latitude": 11.83333,
+      "longitude": 42.5
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-DJ,ar,so-DJ,aa",
+      "geonameId": 223816,
+      "isoAlpha3": "DJI",
+      "isoNumeric": "262",
+      "fipsCode": "DJ",
+      "population": "958920",
+      "areaInSqKm": "23000.0",
+      "countryCode": "DJ",
+      "currencyCode": "DJF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 12.7136967920001,
+      "south": 10.9129530000001,
+      "east": 43.4175099920001,
+      "west": 41.7708460000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Denmark",
+    "name_cn": "丹麦",
+    "capital": {
+      "name": "Copenhagen",
+      "latitude": 55.67594,
+      "longitude": 12.56553
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "da-DK,en,fo,de-DK",
+      "geonameId": 2623032,
+      "isoAlpha3": "DNK",
+      "isoNumeric": "208",
+      "fipsCode": "DA",
+      "population": "5797446",
+      "areaInSqKm": "43094.0",
+      "countryCode": "DK",
+      "currencyCode": "DKK",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 57.3282078631757,
+      "south": 54.5590783718363,
+      "east": 15.1569721573943,
+      "west": 8.07250975308422
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Dominica",
+    "name_cn": "多米尼克",
+    "capital": {
+      "name": "Roseau",
+      "latitude": 15.30174,
+      "longitude": -61.38808
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-DM",
+      "geonameId": 3575830,
+      "isoAlpha3": "DMA",
+      "isoNumeric": "212",
+      "fipsCode": "DO",
+      "population": "71625",
+      "areaInSqKm": "754.0",
+      "countryCode": "DM",
+      "currencyCode": "XCD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 15.639513083,
+      "south": 15.207302633000001,
+      "east": -61.240777722000004,
+      "west": -61.480074771000005
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Dominican Republic",
+    "name_cn": "多米尼加共和国",
+    "capital": {
+      "name": "Santo Domingo",
+      "latitude": 18.47186,
+      "longitude": -69.89232
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "es-DO",
+      "geonameId": 3508796,
+      "isoAlpha3": "DOM",
+      "isoNumeric": "214",
+      "fipsCode": "DR",
+      "population": "10627165",
+      "areaInSqKm": "48730.0",
+      "countryCode": "DO",
+      "currencyCode": "DOP",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 19.9321257501267,
+      "south": 17.5395066830409,
+      "east": -68.3229591969468,
+      "west": -72.0114723981787
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Algeria",
+    "name_cn": "阿尔及利亚",
+    "capital": {
+      "name": "Algiers",
+      "latitude": 36.73225,
+      "longitude": 3.08746
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "ar-DZ",
+      "geonameId": 2589581,
+      "isoAlpha3": "DZA",
+      "isoNumeric": "012",
+      "fipsCode": "AG",
+      "population": "42228429",
+      "areaInSqKm": "2381740.0",
+      "countryCode": "DZ",
+      "currencyCode": "DZD",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 37.089801381,
+      "south": 18.968147,
+      "east": 11.9984999060001,
+      "west": -8.66761116299995
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Ecuador",
+    "name_cn": "厄瓜多尔",
+    "capital": {
+      "name": "Quito",
+      "latitude": -0.22985,
+      "longitude": -78.52495
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "es-EC",
+      "geonameId": 3658394,
+      "isoAlpha3": "ECU",
+      "isoNumeric": "218",
+      "fipsCode": "EC",
+      "population": "17084357",
+      "areaInSqKm": "283560.0",
+      "countryCode": "EC",
+      "currencyCode": "USD",
+      "postalCodeFormat": "@####@"
+    },
+    "geography": {
+      "north": 1.43523516349953,
+      "south": -5.01615732302488,
+      "east": -75.1871465547501,
+      "west": -81.0836838953894
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Estonia",
+    "name_cn": "爱沙尼亚",
+    "capital": {
+      "name": "Tallinn",
+      "latitude": 59.43696,
+      "longitude": 24.75353
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "et,ru",
+      "geonameId": 453733,
+      "isoAlpha3": "EST",
+      "isoNumeric": "233",
+      "fipsCode": "EN",
+      "population": "1320884",
+      "areaInSqKm": "45226.0",
+      "countryCode": "EE",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 59.67520158600001,
+      "south": 57.509312800000004,
+      "east": 28.209323191000003,
+      "west": 21.828243949
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Egypt",
+    "name_cn": "埃及",
+    "capital": {
+      "name": "Cairo",
+      "latitude": 30.06263,
+      "longitude": 31.24967
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "ar-EG,en,fr",
+      "geonameId": 357994,
+      "isoAlpha3": "EGY",
+      "isoNumeric": "818",
+      "fipsCode": "EG",
+      "population": "98423595",
+      "areaInSqKm": "1001450.0",
+      "countryCode": "EG",
+      "currencyCode": "EGP",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 31.6709930000001,
+      "south": 21.724952,
+      "east": 35.7935441020001,
+      "west": 24.6967750000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Western Sahara",
+    "name_cn": "Western Sahara",
+    "capital": {
+      "name": "",
+      "latitude": 27.1418,
+      "longitude": -13.18797
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "ar,mey",
+      "geonameId": 2461445,
+      "isoAlpha3": "ESH",
+      "isoNumeric": "732",
+      "fipsCode": "WI",
+      "population": "273008",
+      "areaInSqKm": "266000.0",
+      "countryCode": "EH",
+      "currencyCode": "MAD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 27.667401638,
+      "south": 20.771664961000003,
+      "east": -8.667525000000001,
+      "west": -17.10418129
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Eritrea",
+    "name_cn": "厄立特里亚",
+    "capital": {
+      "name": "Asmara",
+      "latitude": 15.33805,
+      "longitude": 38.93184
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "aa-ER,ar,tig,kun,ti-ER",
+      "geonameId": 338010,
+      "isoAlpha3": "ERI",
+      "isoNumeric": "232",
+      "fipsCode": "ER",
+      "population": "6209262",
+      "areaInSqKm": "121320.0",
+      "countryCode": "ER",
+      "currencyCode": "ERN",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 18.004838997,
+      "south": 12.3543041790001,
+      "east": 43.1368865700001,
+      "west": 36.434007751
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Spain",
+    "name_cn": "西班牙",
+    "capital": {
+      "name": "Madrid",
+      "latitude": 40.4165,
+      "longitude": -3.70256
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "es-ES,ca,gl,eu,oc",
+      "geonameId": 2510769,
+      "isoAlpha3": "ESP",
+      "isoNumeric": "724",
+      "fipsCode": "SP",
+      "population": "46723749",
+      "areaInSqKm": "504782.0",
+      "countryCode": "ES",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 43.7913565913767,
+      "south": 36.0001044260548,
+      "east": 4.32778473043961,
+      "west": -9.30151567231899
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Ethiopia",
+    "name_cn": "埃塞俄比亚",
+    "capital": {
+      "name": "Addis Ababa",
+      "latitude": 9.02497,
+      "longitude": 38.74689
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "am,en-ET,om-ET,ti-ET,so-ET,sid",
+      "geonameId": 337996,
+      "isoAlpha3": "ETH",
+      "isoNumeric": "231",
+      "fipsCode": "ET",
+      "population": "109224559",
+      "areaInSqKm": "1127127.0",
+      "countryCode": "ET",
+      "currencyCode": "ETB",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 14.894214,
+      "south": 3.40413700100004,
+      "east": 48.0010560010001,
+      "west": 32.997734001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Finland",
+    "name_cn": "芬兰",
+    "capital": {
+      "name": "Helsinki",
+      "latitude": 60.16952,
+      "longitude": 24.93545
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "fi-FI,sv-FI,smn",
+      "geonameId": 660013,
+      "isoAlpha3": "FIN",
+      "isoNumeric": "246",
+      "fipsCode": "FI",
+      "population": "5518050",
+      "areaInSqKm": "337030.0",
+      "countryCode": "FI",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 70.0922932,
+      "south": 59.807848896,
+      "east": 31.5867034,
+      "west": 20.548636700000003
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Fiji",
+    "name_cn": "斐济",
+    "capital": {
+      "name": "Suva",
+      "latitude": -18.13683,
+      "longitude": 178.42531
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-FJ,fj",
+      "geonameId": 2205218,
+      "isoAlpha3": "FJI",
+      "isoNumeric": "242",
+      "fipsCode": "FJ",
+      "population": "883483",
+      "areaInSqKm": "18270.0",
+      "countryCode": "FJ",
+      "currencyCode": "FJD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -12.4795295382484,
+      "south": -20.673852409000002,
+      "east": -178.432146772,
+      "west": 177.140015279982
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Falkland Islands",
+    "name_cn": "Falkland Islands",
+    "capital": {
+      "name": "Stanley",
+      "latitude": -51.69382,
+      "longitude": -57.85701
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "en-FK",
+      "geonameId": 3474414,
+      "isoAlpha3": "FLK",
+      "isoNumeric": "238",
+      "fipsCode": "FK",
+      "population": "2638",
+      "areaInSqKm": "12173.0",
+      "countryCode": "FK",
+      "currencyCode": "FKP",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -51.2331394719999,
+      "south": -52.383984175,
+      "east": -57.718087652,
+      "west": -61.3474566739999
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Micronesia",
+    "name_cn": "密克罗尼西亚",
+    "capital": {
+      "name": "Palikir",
+      "latitude": 6.92477,
+      "longitude": 158.16109
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",
+      "geonameId": 2081918,
+      "isoAlpha3": "FSM",
+      "isoNumeric": "583",
+      "fipsCode": "FM",
+      "population": "112640",
+      "areaInSqKm": "702.0",
+      "countryCode": "FM",
+      "currencyCode": "USD",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 10.08904,
+      "south": 1.02629,
+      "east": 163.03717,
+      "west": 137.33648
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Faroe Islands",
+    "name_cn": "Faroe Islands",
+    "capital": {
+      "name": "Tórshavn",
+      "latitude": 62.00973,
+      "longitude": -6.77164
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "fo,da-FO",
+      "geonameId": 2622320,
+      "isoAlpha3": "FRO",
+      "isoNumeric": "234",
+      "fipsCode": "FO",
+      "population": "48497",
+      "areaInSqKm": "1399.0",
+      "countryCode": "FO",
+      "currencyCode": "DKK",
+      "postalCodeFormat": "###"
+    },
+    "geography": {
+      "north": 62.3938884414274,
+      "south": 61.3910302656013,
+      "east": -6.25655957192113,
+      "west": -7.688191677774624
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "France",
+    "name_cn": "法国",
+    "capital": {
+      "name": "Paris",
+      "latitude": 48.85341,
+      "longitude": 2.3488
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "fr-FR,frp,br,co,ca,eu,oc",
+      "geonameId": 3017382,
+      "isoAlpha3": "FRA",
+      "isoNumeric": "250",
+      "fipsCode": "FR",
+      "population": "66987244",
+      "areaInSqKm": "547030.0",
+      "countryCode": "FR",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 51.0889894407743,
+      "south": 41.3645589826522,
+      "east": 9.56009360694225,
+      "west": -5.14127657354623
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Gabon",
+    "name_cn": "加蓬",
+    "capital": {
+      "name": "Libreville",
+      "latitude": 0.39241,
+      "longitude": 9.45356
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-GA",
+      "geonameId": 2400553,
+      "isoAlpha3": "GAB",
+      "isoNumeric": "266",
+      "fipsCode": "GB",
+      "population": "2119275",
+      "areaInSqKm": "267667.0",
+      "countryCode": "GA",
+      "currencyCode": "XAF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 2.31810900100004,
+      "south": -3.96180775999994,
+      "east": 14.5269230000001,
+      "west": 8.69940944700005
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "United Kingdom",
+    "name_cn": "英国",
+    "capital": {
+      "name": "London",
+      "latitude": 51.50853,
+      "longitude": -0.12574
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "en-GB,cy-GB,gd",
+      "geonameId": 2635167,
+      "isoAlpha3": "GBR",
+      "isoNumeric": "826",
+      "fipsCode": "UK",
+      "population": "66488991",
+      "areaInSqKm": "244820.0",
+      "countryCode": "GB",
+      "currencyCode": "GBP",
+      "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA"
+    },
+    "geography": {
+      "north": 59.3607741849963,
+      "south": 49.9028622252397,
+      "east": 1.7689121033873,
+      "west": -8.61772077108559
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Grenada",
+    "name_cn": "格林纳达",
+    "capital": {
+      "name": "St. George's",
+      "latitude": 12.05288,
+      "longitude": -61.75226
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-GD",
+      "geonameId": 3580239,
+      "isoAlpha3": "GRD",
+      "isoNumeric": "308",
+      "fipsCode": "GJ",
+      "population": "111454",
+      "areaInSqKm": "344.0",
+      "countryCode": "GD",
+      "currencyCode": "XCD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 12.318283928171299,
+      "south": 11.9869539231552,
+      "east": -61.57676970108031,
+      "west": -61.80247620963
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Georgia",
+    "name_cn": "格鲁吉亚",
+    "capital": {
+      "name": "Tbilisi",
+      "latitude": 41.69411,
+      "longitude": 44.83368
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ka,ru,hy,az",
+      "geonameId": 614540,
+      "isoAlpha3": "GEO",
+      "isoNumeric": "268",
+      "fipsCode": "GG",
+      "population": "3731000",
+      "areaInSqKm": "69700.0",
+      "countryCode": "GE",
+      "currencyCode": "GEL",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 43.586627,
+      "south": 41.055156100000005,
+      "east": 46.736119,
+      "west": 40.006604
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "French Guiana",
+    "name_cn": "French Guiana",
+    "capital": {
+      "name": "Cayenne",
+      "latitude": 4.93333,
+      "longitude": -52.33333
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "fr-GF",
+      "geonameId": 3381670,
+      "isoAlpha3": "GUF",
+      "isoNumeric": "254",
+      "fipsCode": "FG",
+      "population": "195506",
+      "areaInSqKm": "91000.0",
+      "countryCode": "GF",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 5.74725188917531,
+      "south": 2.11107565187642,
+      "east": -51.619065827085,
+      "west": -54.6024155447667
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Guernsey",
+    "name_cn": "Guernsey",
+    "capital": {
+      "name": "St Peter Port",
+      "latitude": 49.45981,
+      "longitude": -2.53527
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "en,nrf",
+      "geonameId": 3042362,
+      "isoAlpha3": "GGY",
+      "isoNumeric": "831",
+      "fipsCode": "GK",
+      "population": "65228",
+      "areaInSqKm": "78.0",
+      "countryCode": "GG",
+      "currencyCode": "GBP",
+      "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA"
+    },
+    "geography": {
+      "north": 49.732650434,
+      "south": 49.407357411,
+      "east": -2.15661384,
+      "west": -2.676158606
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Ghana",
+    "name_cn": "加纳",
+    "capital": {
+      "name": "Accra",
+      "latitude": 5.55602,
+      "longitude": -0.1969
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-GH,ak,ee,tw",
+      "geonameId": 2300660,
+      "isoAlpha3": "GHA",
+      "isoNumeric": "288",
+      "fipsCode": "GH",
+      "population": "29767108",
+      "areaInSqKm": "239460.0",
+      "countryCode": "GH",
+      "currencyCode": "GHS",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 11.174952907,
+      "south": 4.73894544800004,
+      "east": 1.19948138100006,
+      "west": -3.26078599999994
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Gibraltar",
+    "name_cn": "Gibraltar",
+    "capital": {
+      "name": "Gibraltar",
+      "latitude": 36.14474,
+      "longitude": -5.35257
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "en-GI,es,it,pt",
+      "geonameId": 2411586,
+      "isoAlpha3": "GIB",
+      "isoNumeric": "292",
+      "fipsCode": "GI",
+      "population": "33718",
+      "areaInSqKm": "6.5",
+      "countryCode": "GI",
+      "currencyCode": "GIP",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 36.1550302,
+      "south": 36.108417452000005,
+      "east": -5.337457613000001,
+      "west": -5.366033708000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Greenland",
+    "name_cn": "Greenland",
+    "capital": {
+      "name": "Nuuk",
+      "latitude": 64.18347,
+      "longitude": -51.72157
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "kl,da-GL,en",
+      "geonameId": 3425505,
+      "isoAlpha3": "GRL",
+      "isoNumeric": "304",
+      "fipsCode": "GL",
+      "population": "56025",
+      "areaInSqKm": "2166086.0",
+      "countryCode": "GL",
+      "currencyCode": "DKK",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 83.666250438,
+      "south": 59.773352049,
+      "east": -11.415399203000002,
+      "west": -73.02829874000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "The Gambia",
+    "name_cn": "The Gambia",
+    "capital": {
+      "name": "Banjul",
+      "latitude": 13.43833,
+      "longitude": -16.67806
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-GM,mnk,wof,wo,ff",
+      "geonameId": 2413451,
+      "isoAlpha3": "GMB",
+      "isoNumeric": "270",
+      "fipsCode": "GA",
+      "population": "2280102",
+      "areaInSqKm": "11300.0",
+      "countryCode": "GM",
+      "currencyCode": "GMD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 13.825058100000001,
+      "south": 13.06389831,
+      "east": -13.791386200000002,
+      "west": -16.813880921000003
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Guinea",
+    "name_cn": "几内亚",
+    "capital": {
+      "name": "Conakry",
+      "latitude": 9.53795,
+      "longitude": -13.67729
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-GN",
+      "geonameId": 2420477,
+      "isoAlpha3": "GIN",
+      "isoNumeric": "324",
+      "fipsCode": "GV",
+      "population": "12414318",
+      "areaInSqKm": "245857.0",
+      "countryCode": "GN",
+      "currencyCode": "GNF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 12.674861300000002,
+      "south": 7.1906045,
+      "east": -7.637853000000001,
+      "west": -14.919164658000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Guadeloupe",
+    "name_cn": "Guadeloupe",
+    "capital": {
+      "name": "Basse-Terre",
+      "latitude": 16.26738,
+      "longitude": -61.58543
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "fr-GP",
+      "geonameId": 3579143,
+      "isoAlpha3": "GLP",
+      "isoNumeric": "312",
+      "fipsCode": "GP",
+      "population": "443000",
+      "areaInSqKm": "1780.0",
+      "countryCode": "GP",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 16.5144923539361,
+      "south": 15.8665030910918,
+      "east": -61.0019590353041,
+      "west": -61.5508178989899
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Equatorial Guinea",
+    "name_cn": "赤道几内亚",
+    "capital": {
+      "name": "Malabo",
+      "latitude": 3.75578,
+      "longitude": 8.78166
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "es-GQ,fr,pt",
+      "geonameId": 2309096,
+      "isoAlpha3": "GNQ",
+      "isoNumeric": "226",
+      "fipsCode": "EK",
+      "population": "1308974",
+      "areaInSqKm": "28051.0",
+      "countryCode": "GQ",
+      "currencyCode": "XAF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 2.34792018,
+      "south": 0.92086101,
+      "east": 11.33743668,
+      "west": 9.34069443
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Greece",
+    "name_cn": "希腊",
+    "capital": {
+      "name": "Athens",
+      "latitude": 37.98376,
+      "longitude": 23.72784
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "el-GR,en,fr",
+      "geonameId": 390903,
+      "isoAlpha3": "GRC",
+      "isoNumeric": "300",
+      "fipsCode": "GR",
+      "population": "10727668",
+      "areaInSqKm": "131940.0",
+      "countryCode": "GR",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "### ##"
+    },
+    "geography": {
+      "north": 41.7484999849641,
+      "south": 34.8020663391466,
+      "east": 28.2470831714347,
+      "west": 19.3736035624134
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "South Georgia and South Sandwich Islands",
+    "name_cn": "South Georgia and South Sandwich Islands",
+    "capital": {
+      "name": "Grytviken",
+      "latitude": -54.28111,
+      "longitude": -36.5092
+    },
+    "info": {
+      "continent": "AN",
+      "languages": "en",
+      "geonameId": 3474415,
+      "isoAlpha3": "SGS",
+      "isoNumeric": "239",
+      "fipsCode": "SX",
+      "population": "30",
+      "areaInSqKm": "3903.0",
+      "countryCode": "GS",
+      "currencyCode": "GBP",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -53.980896636,
+      "south": -59.46319341,
+      "east": -26.252069712,
+      "west": -38.0479509639999
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Guatemala",
+    "name_cn": "危地马拉",
+    "capital": {
+      "name": "Guatemala City",
+      "latitude": 14.64072,
+      "longitude": -90.51327
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "es-GT",
+      "geonameId": 3595528,
+      "isoAlpha3": "GTM",
+      "isoNumeric": "320",
+      "fipsCode": "GT",
+      "population": "17247807",
+      "areaInSqKm": "108890.0",
+      "countryCode": "GT",
+      "currencyCode": "GTQ",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 17.815695169,
+      "south": 13.7400210010001,
+      "east": -88.233001934,
+      "west": -92.231143101
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Guam",
+    "name_cn": "Guam",
+    "capital": {
+      "name": "Hagåtña",
+      "latitude": 13.47567,
+      "longitude": 144.74886
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-GU,ch-GU",
+      "geonameId": 4043988,
+      "isoAlpha3": "GUM",
+      "isoNumeric": "316",
+      "fipsCode": "GQ",
+      "population": "165768",
+      "areaInSqKm": "549.0",
+      "countryCode": "GU",
+      "currencyCode": "USD",
+      "postalCodeFormat": "969##"
+    },
+    "geography": {
+      "north": 13.654402,
+      "south": 13.23376,
+      "east": 144.956894,
+      "west": 144.618318
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Guinea-Bissau",
+    "name_cn": "几内亚比绍",
+    "capital": {
+      "name": "Bissau",
+      "latitude": 12,
+      "longitude": -15
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "pt-GW,pov",
+      "geonameId": 2372248,
+      "isoAlpha3": "GNB",
+      "isoNumeric": "624",
+      "fipsCode": "PU",
+      "population": "1874309",
+      "areaInSqKm": "36120.0",
+      "countryCode": "GW",
+      "currencyCode": "XOF",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 12.686947,
+      "south": 10.921182632,
+      "east": -13.626523,
+      "west": -16.667235795
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Guyana",
+    "name_cn": "圭亚那",
+    "capital": {
+      "name": "Georgetown",
+      "latitude": 6.80448,
+      "longitude": -58.15527
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "en-GY",
+      "geonameId": 3378535,
+      "isoAlpha3": "GUY",
+      "isoNumeric": "328",
+      "fipsCode": "GY",
+      "population": "779004",
+      "areaInSqKm": "214970.0",
+      "countryCode": "GY",
+      "currencyCode": "GYD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 8.405275345,
+      "south": 1.164724,
+      "east": -56.49112,
+      "west": -61.4108317
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Hong Kong",
+    "name_cn": "Hong Kong",
+    "capital": {
+      "name": "Hong Kong",
+      "latitude": 22.27832,
+      "longitude": 114.17469
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "zh-HK,yue,zh,en",
+      "geonameId": 1819730,
+      "isoAlpha3": "HKG",
+      "isoNumeric": "344",
+      "fipsCode": "HK",
+      "population": "7491609",
+      "areaInSqKm": "1092.0",
+      "countryCode": "HK",
+      "currencyCode": "HKD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 22.5619493557973,
+      "south": 22.1552256413502,
+      "east": 114.441993257571,
+      "west": 113.839212676903
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Heard and McDonald Islands",
+    "name_cn": "Heard and McDonald Islands",
+    "capital": {
+      "name": "",
+      "latitude": -53.1,
+      "longitude": 73.51667
+    },
+    "info": {
+      "continent": "AN",
+      "languages": "",
+      "geonameId": 1547314,
+      "isoAlpha3": "HMD",
+      "isoNumeric": "334",
+      "fipsCode": "HM",
+      "population": "0",
+      "areaInSqKm": "412.0",
+      "countryCode": "HM",
+      "currencyCode": "AUD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -52.915310109,
+      "south": -53.194220878,
+      "east": 73.876616094,
+      "west": 72.583712483
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Honduras",
+    "name_cn": "洪都拉斯",
+    "capital": {
+      "name": "Tegucigalpa",
+      "latitude": 14.0818,
+      "longitude": -87.20681
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "es-HN,cab,miq",
+      "geonameId": 3608932,
+      "isoAlpha3": "HND",
+      "isoNumeric": "340",
+      "fipsCode": "HO",
+      "population": "9587522",
+      "areaInSqKm": "112090.0",
+      "countryCode": "HN",
+      "currencyCode": "HNL",
+      "postalCodeFormat": "@@####"
+    },
+    "geography": {
+      "north": 16.515996751,
+      "south": 12.9808202,
+      "east": -83.12893683600001,
+      "west": -89.3564822
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Croatia",
+    "name_cn": "克罗地亚",
+    "capital": {
+      "name": "Zagreb",
+      "latitude": 45.81444,
+      "longitude": 15.97798
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "hr-HR,sr",
+      "geonameId": 3202326,
+      "isoAlpha3": "HRV",
+      "isoNumeric": "191",
+      "fipsCode": "HR",
+      "population": "3871833",
+      "areaInSqKm": "56542.0",
+      "countryCode": "HR",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 46.555020500000005,
+      "south": 42.686594828000004,
+      "east": 19.447372100000003,
+      "west": 13.489818351
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Haiti",
+    "name_cn": "海地",
+    "capital": {
+      "name": "Port-au-Prince",
+      "latitude": 18.54349,
+      "longitude": -72.33881
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "ht,fr-HT",
+      "geonameId": 3723988,
+      "isoAlpha3": "HTI",
+      "isoNumeric": "332",
+      "fipsCode": "HA",
+      "population": "11123176",
+      "areaInSqKm": "27750.0",
+      "countryCode": "HT",
+      "currencyCode": "HTG",
+      "postalCodeFormat": "HT####"
+    },
+    "geography": {
+      "north": 20.089481152,
+      "south": 18.021640916000003,
+      "east": -71.62175400000001,
+      "west": -74.480430603
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Hungary",
+    "name_cn": "匈牙利",
+    "capital": {
+      "name": "Budapest",
+      "latitude": 47.49835,
+      "longitude": 19.04045
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "hu-HU",
+      "geonameId": 719819,
+      "isoAlpha3": "HUN",
+      "isoNumeric": "348",
+      "fipsCode": "HU",
+      "population": "9768785",
+      "areaInSqKm": "93030.0",
+      "countryCode": "HU",
+      "currencyCode": "HUF",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 48.585336,
+      "south": 45.7370495590001,
+      "east": 22.896564336,
+      "west": 16.113795
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Indonesia",
+    "name_cn": "印度尼西亚",
+    "capital": {
+      "name": "Jakarta",
+      "latitude": -6.21462,
+      "longitude": 106.84513
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "id,en,nl,jv",
+      "geonameId": 1643084,
+      "isoAlpha3": "IDN",
+      "isoNumeric": "360",
+      "fipsCode": "ID",
+      "population": "267663435",
+      "areaInSqKm": "1919440.0",
+      "countryCode": "ID",
+      "currencyCode": "IDR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 5.90722980000004,
+      "south": -10.9431056999999,
+      "east": 141.0194,
+      "west": 95.0111465000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Ireland",
+    "name_cn": "爱尔兰",
+    "capital": {
+      "name": "Dublin",
+      "latitude": 53.33306,
+      "longitude": -6.24889
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "en-IE,ga-IE",
+      "geonameId": 2963597,
+      "isoAlpha3": "IRL",
+      "isoNumeric": "372",
+      "fipsCode": "EI",
+      "population": "4853506",
+      "areaInSqKm": "70280.0",
+      "countryCode": "IE",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "@@@ @@@@"
+    },
+    "geography": {
+      "north": 55.3829431564742,
+      "south": 51.4475491577615,
+      "east": -5.99804990172185,
+      "west": -10.4800035816853
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Israel",
+    "name_cn": "以色列",
+    "capital": {
+      "name": "",
+      "latitude": 31.76904,
+      "longitude": 35.21633
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "he,ar-IL,en-IL,",
+      "geonameId": 294640,
+      "isoAlpha3": "ISR",
+      "isoNumeric": "376",
+      "fipsCode": "IS",
+      "population": "8883800",
+      "areaInSqKm": "20770.0",
+      "countryCode": "IL",
+      "currencyCode": "ILS",
+      "postalCodeFormat": "#######"
+    },
+    "geography": {
+      "north": 33.2908350000001,
+      "south": 29.490654862,
+      "east": 35.67033,
+      "west": 34.267257
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Isle of Man",
+    "name_cn": "Isle of Man",
+    "capital": {
+      "name": "Douglas",
+      "latitude": 54.15,
+      "longitude": -4.48333
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "en,gv",
+      "geonameId": 3042225,
+      "isoAlpha3": "IMN",
+      "isoNumeric": "833",
+      "fipsCode": "IM",
+      "population": "84077",
+      "areaInSqKm": "572.0",
+      "countryCode": "IM",
+      "currencyCode": "GBP",
+      "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA"
+    },
+    "geography": {
+      "north": 54.4178825685258,
+      "south": 54.0536251033159,
+      "east": -4.30802074695987,
+      "west": -4.79430574571353
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "India",
+    "name_cn": "印度",
+    "capital": {
+      "name": "New Delhi",
+      "latitude": 28.65195,
+      "longitude": 77.23149
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
+      "geonameId": 1269750,
+      "isoAlpha3": "IND",
+      "isoNumeric": "356",
+      "fipsCode": "IN",
+      "population": "1352617328",
+      "areaInSqKm": "3287590.0",
+      "countryCode": "IN",
+      "currencyCode": "INR",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 35.6739668609106,
+      "south": 6.756488981,
+      "east": 97.4152926679075,
+      "west": 68.451157765
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "British Indian Ocean Territory",
+    "name_cn": "British Indian Ocean Territory",
+    "capital": {
+      "name": "",
+      "latitude": -6,
+      "longitude": 72
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "en-IO",
+      "geonameId": 1282588,
+      "isoAlpha3": "IOT",
+      "isoNumeric": "086",
+      "fipsCode": "IO",
+      "population": "4000",
+      "areaInSqKm": "60.0",
+      "countryCode": "IO",
+      "currencyCode": "USD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -5.279533272,
+      "south": -6.207870302000001,
+      "east": 72.230204978,
+      "west": 71.311290027
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Iraq",
+    "name_cn": "伊拉克",
+    "capital": {
+      "name": "Baghdad",
+      "latitude": 33.34058,
+      "longitude": 44.40088
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-IQ,ku,hy",
+      "geonameId": 99237,
+      "isoAlpha3": "IRQ",
+      "isoNumeric": "368",
+      "fipsCode": "IZ",
+      "population": "38433600",
+      "areaInSqKm": "437072.0",
+      "countryCode": "IQ",
+      "currencyCode": "IQD",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 37.380746001,
+      "south": 29.0612080000001,
+      "east": 48.6117360000001,
+      "west": 38.7936740000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Iran",
+    "name_cn": "伊朗",
+    "capital": {
+      "name": "Tehran",
+      "latitude": 35.69439,
+      "longitude": 51.42151
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "fa-IR,ku",
+      "geonameId": 130758,
+      "isoAlpha3": "IRN",
+      "isoNumeric": "364",
+      "fipsCode": "IR",
+      "population": "81800269",
+      "areaInSqKm": "1648000.0",
+      "countryCode": "IR",
+      "currencyCode": "IRR",
+      "postalCodeFormat": "##########"
+    },
+    "geography": {
+      "north": 39.7822393340001,
+      "south": 25.060388566,
+      "east": 63.333337,
+      "west": 44.032638708
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Iceland",
+    "name_cn": "冰岛",
+    "capital": {
+      "name": "Reykjavik",
+      "latitude": 64.13548,
+      "longitude": -21.89541
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "is,en,de,da,sv,no",
+      "geonameId": 2629691,
+      "isoAlpha3": "ISL",
+      "isoNumeric": "352",
+      "fipsCode": "IC",
+      "population": "353574",
+      "areaInSqKm": "103000.0",
+      "countryCode": "IS",
+      "currencyCode": "ISK",
+      "postalCodeFormat": "###"
+    },
+    "geography": {
+      "north": 66.5377933098397,
+      "south": 63.394392778588,
+      "east": -13.4946206239501,
+      "west": -24.5326753866625
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Italy",
+    "name_cn": "意大利",
+    "capital": {
+      "name": "Rome",
+      "latitude": 41.89193,
+      "longitude": 12.51133
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "it-IT,de-IT,fr-IT,sc,ca,co,sl",
+      "geonameId": 3175395,
+      "isoAlpha3": "ITA",
+      "isoNumeric": "380",
+      "fipsCode": "IT",
+      "population": "60431283",
+      "areaInSqKm": "301230.0",
+      "countryCode": "IT",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 47.0917837415439,
+      "south": 36.6440816661648,
+      "east": 18.5203814091888,
+      "west": 6.62662135986088
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Jersey",
+    "name_cn": "Jersey",
+    "capital": {
+      "name": "Saint Helier",
+      "latitude": 49.18804,
+      "longitude": -2.10491
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "en,fr,nrf",
+      "geonameId": 3042142,
+      "isoAlpha3": "JEY",
+      "isoNumeric": "832",
+      "fipsCode": "JE",
+      "population": "90812",
+      "areaInSqKm": "116.0",
+      "countryCode": "JE",
+      "currencyCode": "GBP",
+      "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA"
+    },
+    "geography": {
+      "north": 49.262085141,
+      "south": 49.162639832,
+      "east": -2.016521809,
+      "west": -2.256828534
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Jamaica",
+    "name_cn": "牙买加",
+    "capital": {
+      "name": "Kingston",
+      "latitude": 17.99702,
+      "longitude": -76.79358
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-JM",
+      "geonameId": 3489940,
+      "isoAlpha3": "JAM",
+      "isoNumeric": "388",
+      "fipsCode": "JM",
+      "population": "2934855",
+      "areaInSqKm": "10991.0",
+      "countryCode": "JM",
+      "currencyCode": "JMD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 18.524766185516,
+      "south": 17.7059966193696,
+      "east": -76.1830989848426,
+      "west": -78.3690062954957
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Jordan",
+    "name_cn": "约旦",
+    "capital": {
+      "name": "Amman",
+      "latitude": 31.95522,
+      "longitude": 35.94503
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-JO,en",
+      "geonameId": 248816,
+      "isoAlpha3": "JOR",
+      "isoNumeric": "400",
+      "fipsCode": "JO",
+      "population": "9956011",
+      "areaInSqKm": "92300.0",
+      "countryCode": "JO",
+      "currencyCode": "JOD",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 33.374735,
+      "south": 29.1850360010001,
+      "east": 39.3011540000001,
+      "west": 34.955471039
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Japan",
+    "name_cn": "日本",
+    "capital": {
+      "name": "Tokyo",
+      "latitude": 35.6895,
+      "longitude": 139.69171
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ja",
+      "geonameId": 1861060,
+      "isoAlpha3": "JPN",
+      "isoNumeric": "392",
+      "fipsCode": "JA",
+      "population": "126529100",
+      "areaInSqKm": "377835.0",
+      "countryCode": "JP",
+      "currencyCode": "JPY",
+      "postalCodeFormat": "###-####"
+    },
+    "geography": {
+      "north": 45.52295736,
+      "south": 24.255169441,
+      "east": 145.817458885,
+      "west": 122.933653061
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Kenya",
+    "name_cn": "肯尼亚",
+    "capital": {
+      "name": "Nairobi",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-KE,sw-KE",
+      "geonameId": 192950,
+      "isoAlpha3": "KEN",
+      "isoNumeric": "404",
+      "fipsCode": "KE",
+      "population": "51393010",
+      "areaInSqKm": "582650.0",
+      "countryCode": "KE",
+      "currencyCode": "KES",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 5.03342100100002,
+      "south": -4.67989449199996,
+      "east": 41.9069450000001,
+      "west": 33.9098210000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Kyrgyzstan",
+    "name_cn": "吉尔吉斯斯坦",
+    "capital": {
+      "name": "Bishkek",
+      "latitude": 42.87,
+      "longitude": 74.59
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ky,uz,ru",
+      "geonameId": 1527747,
+      "isoAlpha3": "KGZ",
+      "isoNumeric": "417",
+      "fipsCode": "KG",
+      "population": "6315800",
+      "areaInSqKm": "198500.0",
+      "countryCode": "KG",
+      "currencyCode": "KGS",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 43.266184800000005,
+      "south": 39.180972600000004,
+      "east": 80.2281514,
+      "west": 69.26406010000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Cambodia",
+    "name_cn": "柬埔寨",
+    "capital": {
+      "name": "Phnom Penh",
+      "latitude": 11.56245,
+      "longitude": 104.91601
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "km,fr,en",
+      "geonameId": 1831722,
+      "isoAlpha3": "KHM",
+      "isoNumeric": "116",
+      "fipsCode": "CB",
+      "population": "16249798",
+      "areaInSqKm": "181040.0",
+      "countryCode": "KH",
+      "currencyCode": "KHR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 14.690179,
+      "south": 10.4044675,
+      "east": 107.62768700000001,
+      "west": 102.3336584
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Kiribati",
+    "name_cn": "基里巴斯",
+    "capital": {
+      "name": "Tarawa",
+      "latitude": 1.3278,
+      "longitude": 172.97696
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-KI,gil",
+      "geonameId": 4030945,
+      "isoAlpha3": "KIR",
+      "isoNumeric": "296",
+      "fipsCode": "KR",
+      "population": "115847",
+      "areaInSqKm": "811.0",
+      "countryCode": "KI",
+      "currencyCode": "AUD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 3.93942799999973,
+      "south": -11.4460499999991,
+      "east": -150.2345115032905,
+      "west": 169.548692
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Comoros",
+    "name_cn": "科摩罗",
+    "capital": {
+      "name": "Moroni",
+      "latitude": -11.70216,
+      "longitude": 43.25506
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "ar,fr-KM",
+      "geonameId": 921929,
+      "isoAlpha3": "COM",
+      "isoNumeric": "174",
+      "fipsCode": "CN",
+      "population": "832322",
+      "areaInSqKm": "2170.0",
+      "countryCode": "KM",
+      "currencyCode": "KMF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -11.364901803,
+      "south": -12.391376681,
+      "east": 44.540496038,
+      "west": 43.229447492000006
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "St Kitts and Nevis",
+    "name_cn": "St Kitts and Nevis",
+    "capital": {
+      "name": "Basseterre",
+      "latitude": 17.2955,
+      "longitude": -62.72499
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-KN",
+      "geonameId": 3575174,
+      "isoAlpha3": "KNA",
+      "isoNumeric": "659",
+      "fipsCode": "SC",
+      "population": "52441",
+      "areaInSqKm": "261.0",
+      "countryCode": "KN",
+      "currencyCode": "XCD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 17.417971063,
+      "south": 17.094041539000003,
+      "east": -62.539445108,
+      "west": -62.864195683000005
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "North Korea",
+    "name_cn": "朝鲜",
+    "capital": {
+      "name": "Pyongyang",
+      "latitude": 39.03385,
+      "longitude": 125.75432
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ko-KP",
+      "geonameId": 1873107,
+      "isoAlpha3": "PRK",
+      "isoNumeric": "408",
+      "fipsCode": "KN",
+      "population": "25549819",
+      "areaInSqKm": "120540.0",
+      "countryCode": "KP",
+      "currencyCode": "KPW",
+      "postalCodeFormat": "###-###"
+    },
+    "geography": {
+      "north": 43.009170000000005,
+      "south": 37.676415029000005,
+      "east": 130.69807515,
+      "west": 124.30949351800001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "South Korea",
+    "name_cn": "韩国",
+    "capital": {
+      "name": "Seoul",
+      "latitude": 37.566,
+      "longitude": 126.9784
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ko-KR,en",
+      "geonameId": 1835841,
+      "isoAlpha3": "KOR",
+      "isoNumeric": "410",
+      "fipsCode": "KS",
+      "population": "51635256",
+      "areaInSqKm": "98480.0",
+      "countryCode": "KR",
+      "currencyCode": "KRW",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 38.5933891092225,
+      "south": 33.1954102977009,
+      "east": 129.583016157998,
+      "west": 125.887442375577
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Kuwait",
+    "name_cn": "科威特",
+    "capital": {
+      "name": "Kuwait City",
+      "latitude": 29.36972,
+      "longitude": 47.97833
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-KW,en",
+      "geonameId": 285570,
+      "isoAlpha3": "KWT",
+      "isoNumeric": "414",
+      "fipsCode": "KU",
+      "population": "4137309",
+      "areaInSqKm": "17820.0",
+      "countryCode": "KW",
+      "currencyCode": "KWD",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 30.103699100000004,
+      "south": 28.524446,
+      "east": 48.430707508000005,
+      "west": 46.55304
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Cayman Islands",
+    "name_cn": "Cayman Islands",
+    "capital": {
+      "name": "George Town",
+      "latitude": 19.2866,
+      "longitude": -81.37436
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-KY",
+      "geonameId": 3580718,
+      "isoAlpha3": "CYM",
+      "isoNumeric": "136",
+      "fipsCode": "CJ",
+      "population": "64174",
+      "areaInSqKm": "262.0",
+      "countryCode": "KY",
+      "currencyCode": "KYD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 19.756924232000003,
+      "south": 19.262405779,
+      "east": -79.722724161,
+      "west": -81.420590362
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Kazakhstan",
+    "name_cn": "哈萨克斯坦",
+    "capital": {
+      "name": "Nur-Sultan",
+      "latitude": 51.1801,
+      "longitude": 71.44598
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "kk,ru",
+      "geonameId": 1522867,
+      "isoAlpha3": "KAZ",
+      "isoNumeric": "398",
+      "fipsCode": "KZ",
+      "population": "18276499",
+      "areaInSqKm": "2717300.0",
+      "countryCode": "KZ",
+      "currencyCode": "KZT",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 55.441984001,
+      "south": 40.5686884990001,
+      "east": 87.3154150010001,
+      "west": 46.4936720000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Laos",
+    "name_cn": "老挝",
+    "capital": {
+      "name": "Vientiane",
+      "latitude": 17.96667,
+      "longitude": 102.6
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "lo,fr,en",
+      "geonameId": 1655842,
+      "isoAlpha3": "LAO",
+      "isoNumeric": "418",
+      "fipsCode": "LA",
+      "population": "7061507",
+      "areaInSqKm": "236800.0",
+      "countryCode": "LA",
+      "currencyCode": "LAK",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 22.50904495,
+      "south": 13.909720001,
+      "east": 107.635093936,
+      "west": 100.083872
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Lebanon",
+    "name_cn": "黎巴嫩",
+    "capital": {
+      "name": "Beirut",
+      "latitude": 33.89332,
+      "longitude": 35.50157
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-LB,fr-LB,en,hy",
+      "geonameId": 272103,
+      "isoAlpha3": "LBN",
+      "isoNumeric": "422",
+      "fipsCode": "LE",
+      "population": "6848925",
+      "areaInSqKm": "10400.0",
+      "countryCode": "LB",
+      "currencyCode": "LBP",
+      "postalCodeFormat": "#### ####|####"
+    },
+    "geography": {
+      "north": 34.6920900000001,
+      "south": 33.0550260000001,
+      "east": 36.62372,
+      "west": 35.103668213
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Saint Lucia",
+    "name_cn": "圣卢西亚",
+    "capital": {
+      "name": "Castries",
+      "latitude": 13.9957,
+      "longitude": -61.00614
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-LC",
+      "geonameId": 3576468,
+      "isoAlpha3": "LCA",
+      "isoNumeric": "662",
+      "fipsCode": "ST",
+      "population": "181889",
+      "areaInSqKm": "616.0",
+      "countryCode": "LC",
+      "currencyCode": "XCD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 14.110317287646,
+      "south": 13.7072692224982,
+      "east": -60.8732306422271,
+      "west": -61.07995730159752
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Liechtenstein",
+    "name_cn": "列支敦士登",
+    "capital": {
+      "name": "Vaduz",
+      "latitude": 47.14151,
+      "longitude": 9.52154
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "de-LI",
+      "geonameId": 3042058,
+      "isoAlpha3": "LIE",
+      "isoNumeric": "438",
+      "fipsCode": "LS",
+      "population": "37910",
+      "areaInSqKm": "160.0",
+      "countryCode": "LI",
+      "currencyCode": "CHF",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 47.270574200000006,
+      "south": 47.0484281,
+      "east": 9.6356923,
+      "west": 9.4716831
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Sri Lanka",
+    "name_cn": "斯里兰卡",
+    "capital": {
+      "name": "Colombo",
+      "latitude": 6.93548,
+      "longitude": 79.84868
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "si,ta,en",
+      "geonameId": 1227603,
+      "isoAlpha3": "LKA",
+      "isoNumeric": "144",
+      "fipsCode": "CE",
+      "population": "21670000",
+      "areaInSqKm": "65610.0",
+      "countryCode": "LK",
+      "currencyCode": "LKR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 9.83586297688552,
+      "south": 5.91869676126554,
+      "east": 81.8790900303934,
+      "west": 79.6505518289324
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Liberia",
+    "name_cn": "利比里亚",
+    "capital": {
+      "name": "Monrovia",
+      "latitude": 6.30054,
+      "longitude": -10.7969
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-LR",
+      "geonameId": 2275384,
+      "isoAlpha3": "LBR",
+      "isoNumeric": "430",
+      "fipsCode": "LI",
+      "population": "4818977",
+      "areaInSqKm": "111370.0",
+      "countryCode": "LR",
+      "currencyCode": "LRD",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 8.55198600000006,
+      "south": 4.35326143300006,
+      "east": -7.36925499999995,
+      "west": -11.4993114059999
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Lesotho",
+    "name_cn": "莱索托",
+    "capital": {
+      "name": "Maseru",
+      "latitude": -29.31667,
+      "longitude": 27.48333
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-LS,st,zu,xh",
+      "geonameId": 932692,
+      "isoAlpha3": "LSO",
+      "isoNumeric": "426",
+      "fipsCode": "LT",
+      "population": "2108132",
+      "areaInSqKm": "30355.0",
+      "countryCode": "LS",
+      "currencyCode": "LSL",
+      "postalCodeFormat": "###"
+    },
+    "geography": {
+      "north": -28.5708,
+      "south": -30.6755750029999,
+      "east": 29.4557099420001,
+      "west": 27.011229998
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Lithuania",
+    "name_cn": "立陶宛",
+    "capital": {
+      "name": "Vilnius",
+      "latitude": 54.68916,
+      "longitude": 25.2798
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "lt,ru,pl",
+      "geonameId": 597427,
+      "isoAlpha3": "LTU",
+      "isoNumeric": "440",
+      "fipsCode": "LH",
+      "population": "2789533",
+      "areaInSqKm": "65200.0",
+      "countryCode": "LT",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "LT-#####"
+    },
+    "geography": {
+      "north": 56.4504065100001,
+      "south": 53.89679499,
+      "east": 26.8355231,
+      "west": 20.941528
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Luxembourg",
+    "name_cn": "卢森堡",
+    "capital": {
+      "name": "Luxembourg",
+      "latitude": 49.61167,
+      "longitude": 6.13
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "lb,de-LU,fr-LU",
+      "geonameId": 2960313,
+      "isoAlpha3": "LUX",
+      "isoNumeric": "442",
+      "fipsCode": "LU",
+      "population": "607728",
+      "areaInSqKm": "2586.0",
+      "countryCode": "LU",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "L-####"
+    },
+    "geography": {
+      "north": 50.182772453796446,
+      "south": 49.447858677765716,
+      "east": 6.5308980672559525,
+      "west": 5.735698938390786
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Latvia",
+    "name_cn": "拉脱维亚",
+    "capital": {
+      "name": "Riga",
+      "latitude": 56.946,
+      "longitude": 24.10589
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "lv,ru,lt",
+      "geonameId": 458258,
+      "isoAlpha3": "LVA",
+      "isoNumeric": "428",
+      "fipsCode": "LG",
+      "population": "1926542",
+      "areaInSqKm": "64589.0",
+      "countryCode": "LV",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "LV-####"
+    },
+    "geography": {
+      "north": 58.0855687987932,
+      "south": 55.6746813658222,
+      "east": 28.2414937252949,
+      "west": 20.9621192713114
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Libya",
+    "name_cn": "利比亚",
+    "capital": {
+      "name": "Tripoli",
+      "latitude": 32.88743,
+      "longitude": 13.18733
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "ar-LY,it,en",
+      "geonameId": 2215636,
+      "isoAlpha3": "LBY",
+      "isoNumeric": "434",
+      "fipsCode": "LY",
+      "population": "6678567",
+      "areaInSqKm": "1759540.0",
+      "countryCode": "LY",
+      "currencyCode": "LYD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 33.166502251000004,
+      "south": 19.5,
+      "east": 25.149240494,
+      "west": 9.391466300000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Morocco",
+    "name_cn": "摩洛哥",
+    "capital": {
+      "name": "Rabat",
+      "latitude": 34.01325,
+      "longitude": -6.83255
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "ar-MA,ber,fr",
+      "geonameId": 2542007,
+      "isoAlpha3": "MAR",
+      "isoNumeric": "504",
+      "fipsCode": "MO",
+      "population": "36029138",
+      "areaInSqKm": "446550.0",
+      "countryCode": "MA",
+      "currencyCode": "MAD",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 35.922341095,
+      "south": 27.6672694750001,
+      "east": -0.996975780999946,
+      "west": -13.1722970399999
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Monaco",
+    "name_cn": "摩纳哥",
+    "capital": {
+      "name": "Monaco",
+      "latitude": 43.73718,
+      "longitude": 7.42145
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "fr-MC,en,it",
+      "geonameId": 2993457,
+      "isoAlpha3": "MCO",
+      "isoNumeric": "492",
+      "fipsCode": "MN",
+      "population": "38682",
+      "areaInSqKm": "1.95",
+      "countryCode": "MC",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 43.7519093,
+      "south": 43.724488524,
+      "east": 7.440037831000001,
+      "west": 7.409077600000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Moldova",
+    "name_cn": "摩尔多瓦",
+    "capital": {
+      "name": "Chișinău",
+      "latitude": 47.00556,
+      "longitude": 28.8575
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "ro,ru,gag,tr",
+      "geonameId": 617790,
+      "isoAlpha3": "MDA",
+      "isoNumeric": "498",
+      "fipsCode": "MD",
+      "population": "3545883",
+      "areaInSqKm": "33843.0",
+      "countryCode": "MD",
+      "currencyCode": "MDL",
+      "postalCodeFormat": "MD-####"
+    },
+    "geography": {
+      "north": 48.492029003,
+      "south": 45.4674379630001,
+      "east": 30.1635900000001,
+      "west": 26.6164249990001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Montenegro",
+    "name_cn": "黑山",
+    "capital": {
+      "name": "Podgorica",
+      "latitude": 42.44111,
+      "longitude": 19.26361
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "sr,hu,bs,sq,hr,rom",
+      "geonameId": 3194884,
+      "isoAlpha3": "MNE",
+      "isoNumeric": "499",
+      "fipsCode": "MJ",
+      "population": "622345",
+      "areaInSqKm": "14026.0",
+      "countryCode": "ME",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 43.558230232,
+      "south": 41.868751527,
+      "east": 20.352926,
+      "west": 18.4335595800001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Saint Martin",
+    "name_cn": "Saint Martin",
+    "capital": {
+      "name": "Marigot",
+      "latitude": 18.06819,
+      "longitude": -63.08302
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "fr",
+      "geonameId": 3578421,
+      "isoAlpha3": "MAF",
+      "isoNumeric": "663",
+      "fipsCode": "RN",
+      "population": "37264",
+      "areaInSqKm": "53.0",
+      "countryCode": "MF",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 18.124597291,
+      "south": 18.0457313,
+      "east": -63.010251297,
+      "west": -63.153103465
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Madagascar",
+    "name_cn": "马达加斯加",
+    "capital": {
+      "name": "Antananarivo",
+      "latitude": -18.91368,
+      "longitude": 47.53613
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-MG,mg",
+      "geonameId": 1062947,
+      "isoAlpha3": "MDG",
+      "isoNumeric": "450",
+      "fipsCode": "MA",
+      "population": "26262368",
+      "areaInSqKm": "587040.0",
+      "countryCode": "MG",
+      "currencyCode": "MGA",
+      "postalCodeFormat": "###"
+    },
+    "geography": {
+      "north": -11.952634594000001,
+      "south": -25.604970374,
+      "east": 50.486374859,
+      "west": 43.220079751
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Marshall Islands",
+    "name_cn": "马绍尔群岛",
+    "capital": {
+      "name": "Majuro",
+      "latitude": 7.08971,
+      "longitude": 171.38027
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "mh,en-MH",
+      "geonameId": 2080185,
+      "isoAlpha3": "MHL",
+      "isoNumeric": "584",
+      "fipsCode": "RM",
+      "population": "58413",
+      "areaInSqKm": "181.3",
+      "countryCode": "MH",
+      "currencyCode": "USD",
+      "postalCodeFormat": "#####-####"
+    },
+    "geography": {
+      "north": 14.630405313,
+      "south": 5.590593336,
+      "east": 171.93520866900002,
+      "west": 165.52220278500002
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "North Macedonia",
+    "name_cn": "北马其顿",
+    "capital": {
+      "name": "Skopje",
+      "latitude": 41.99646,
+      "longitude": 21.43141
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "mk,sq,tr,rmm,sr",
+      "geonameId": 718075,
+      "isoAlpha3": "MKD",
+      "isoNumeric": "807",
+      "fipsCode": "MK",
+      "population": "2082958",
+      "areaInSqKm": "25333.0",
+      "countryCode": "MK",
+      "currencyCode": "MKD",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 42.3736460000001,
+      "south": 40.8539489400001,
+      "east": 23.0340440310001,
+      "west": 20.4524230000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Mali",
+    "name_cn": "马里",
+    "capital": {
+      "name": "Bamako",
+      "latitude": 12.65,
+      "longitude": -8
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-ML,bm",
+      "geonameId": 2453866,
+      "isoAlpha3": "MLI",
+      "isoNumeric": "466",
+      "fipsCode": "ML",
+      "population": "19077690",
+      "areaInSqKm": "1240000.0",
+      "countryCode": "ML",
+      "currencyCode": "XOF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 25.001084,
+      "south": 10.147811,
+      "east": 4.26666786900006,
+      "west": -12.240344643
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Myanmar",
+    "name_cn": "缅甸",
+    "capital": {
+      "name": "Nay Pyi Taw",
+      "latitude": 19.745,
+      "longitude": 96.12972
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "my",
+      "geonameId": 1327865,
+      "isoAlpha3": "MMR",
+      "isoNumeric": "104",
+      "fipsCode": "BM",
+      "population": "53708395",
+      "areaInSqKm": "678500.0",
+      "countryCode": "MM",
+      "currencyCode": "MMK",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 28.547763300000003,
+      "south": 9.785348390000001,
+      "east": 101.1702717,
+      "west": 92.17197780000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Mongolia",
+    "name_cn": "蒙古",
+    "capital": {
+      "name": "Ulaanbaatar",
+      "latitude": 47.90771,
+      "longitude": 106.88324
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "mn,ru",
+      "geonameId": 2029969,
+      "isoAlpha3": "MNG",
+      "isoNumeric": "496",
+      "fipsCode": "MG",
+      "population": "3170208",
+      "areaInSqKm": "1565000.0",
+      "countryCode": "MN",
+      "currencyCode": "MNT",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 52.1483550020001,
+      "south": 41.5818330000001,
+      "east": 119.931509803,
+      "west": 87.7344790560001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Macao",
+    "name_cn": "Macao",
+    "capital": {
+      "name": "Macao",
+      "latitude": 22.20056,
+      "longitude": 113.54611
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "zh,zh-MO,pt",
+      "geonameId": 1821275,
+      "isoAlpha3": "MAC",
+      "isoNumeric": "446",
+      "fipsCode": "MC",
+      "population": "631636",
+      "areaInSqKm": "254.0",
+      "countryCode": "MO",
+      "currencyCode": "MOP",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 22.217059000000003,
+      "south": 22.109714116000003,
+      "east": 113.59286193700001,
+      "west": 113.52872988200001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Northern Mariana Islands",
+    "name_cn": "Northern Mariana Islands",
+    "capital": {
+      "name": "Saipan",
+      "latitude": 15.21233,
+      "longitude": 145.7545
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "fil,tl,zh,ch-MP,en-MP",
+      "geonameId": 4041468,
+      "isoAlpha3": "MNP",
+      "isoNumeric": "580",
+      "fipsCode": "CQ",
+      "population": "56882",
+      "areaInSqKm": "477.0",
+      "countryCode": "MP",
+      "currencyCode": "USD",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 20.55344,
+      "south": 14.11023,
+      "east": 146.06528,
+      "west": 144.88626
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Martinique",
+    "name_cn": "Martinique",
+    "capital": {
+      "name": "Fort-de-France",
+      "latitude": 14.60365,
+      "longitude": -61.07418
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "fr-MQ",
+      "geonameId": 3570311,
+      "isoAlpha3": "MTQ",
+      "isoNumeric": "474",
+      "fipsCode": "MB",
+      "population": "432900",
+      "areaInSqKm": "1100.0",
+      "countryCode": "MQ",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 14.8787232943029,
+      "south": 14.3946961023016,
+      "east": -60.8096896756103,
+      "west": -61.229041406022
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Mauritania",
+    "name_cn": "毛里塔尼亚",
+    "capital": {
+      "name": "Nouakchott",
+      "latitude": 18.08581,
+      "longitude": -15.9785
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "ar-MR,fuc,snk,fr,mey,wo",
+      "geonameId": 2378080,
+      "isoAlpha3": "MRT",
+      "isoNumeric": "478",
+      "fipsCode": "MR",
+      "population": "4403319",
+      "areaInSqKm": "1030700.0",
+      "countryCode": "MR",
+      "currencyCode": "MRU",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 27.3158917,
+      "south": 14.721273,
+      "east": -4.8341333,
+      "west": -17.068727600000003
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Montserrat",
+    "name_cn": "Montserrat",
+    "capital": {
+      "name": "Plymouth",
+      "latitude": 16.70555,
+      "longitude": -62.21292
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-MS",
+      "geonameId": 3578097,
+      "isoAlpha3": "MSR",
+      "isoNumeric": "500",
+      "fipsCode": "MH",
+      "population": "9341",
+      "areaInSqKm": "102.0",
+      "countryCode": "MS",
+      "currencyCode": "XCD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 16.823976028,
+      "south": 16.674434235,
+      "east": -62.144368171,
+      "west": -62.241642326000004
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Malta",
+    "name_cn": "马耳他",
+    "capital": {
+      "name": "Valletta",
+      "latitude": 35.89968,
+      "longitude": 14.5148
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "mt,en-MT",
+      "geonameId": 2562770,
+      "isoAlpha3": "MLT",
+      "isoNumeric": "470",
+      "fipsCode": "MT",
+      "population": "483530",
+      "areaInSqKm": "316.0",
+      "countryCode": "MT",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "@@@ ####"
+    },
+    "geography": {
+      "north": 36.0821530995456,
+      "south": 35.8061835000002,
+      "east": 14.5764915000002,
+      "west": 14.1834251000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Mauritius",
+    "name_cn": "毛里求斯",
+    "capital": {
+      "name": "Port Louis",
+      "latitude": -20.16194,
+      "longitude": 57.49889
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-MU,bho,fr",
+      "geonameId": 934292,
+      "isoAlpha3": "MUS",
+      "isoNumeric": "480",
+      "fipsCode": "MP",
+      "population": "1265303",
+      "areaInSqKm": "2040.0",
+      "countryCode": "MU",
+      "currencyCode": "MUR",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -10.336914977000001,
+      "south": -20.525962167000003,
+      "east": 63.502770681,
+      "west": 56.585206416000005
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Maldives",
+    "name_cn": "马尔代夫",
+    "capital": {
+      "name": "Malé",
+      "latitude": 4.17521,
+      "longitude": 73.50916
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "dv,en",
+      "geonameId": 1282028,
+      "isoAlpha3": "MDV",
+      "isoNumeric": "462",
+      "fipsCode": "MV",
+      "population": "515696",
+      "areaInSqKm": "300.0",
+      "countryCode": "MV",
+      "currencyCode": "MVR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 7.09404881285051,
+      "south": -0.703668913858034,
+      "east": 73.59108723355475,
+      "west": 72.71436390532806
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Malawi",
+    "name_cn": "马拉维",
+    "capital": {
+      "name": "Lilongwe",
+      "latitude": -13.96692,
+      "longitude": 33.78725
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "ny,yao,tum,swk",
+      "geonameId": 927384,
+      "isoAlpha3": "MWI",
+      "isoNumeric": "454",
+      "fipsCode": "MI",
+      "population": "17563749",
+      "areaInSqKm": "118480.0",
+      "countryCode": "MW",
+      "currencyCode": "MWK",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": -9.36722739199996,
+      "south": -17.1295217059999,
+      "east": 35.9185731040001,
+      "west": 32.6725205490001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Mexico",
+    "name_cn": "墨西哥",
+    "capital": {
+      "name": "Mexico City",
+      "latitude": 19.42847,
+      "longitude": -99.12766
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "es-MX",
+      "geonameId": 3996063,
+      "isoAlpha3": "MEX",
+      "isoNumeric": "484",
+      "fipsCode": "MX",
+      "population": "126190788",
+      "areaInSqKm": "1972550.0",
+      "countryCode": "MX",
+      "currencyCode": "MXN",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 32.7187271,
+      "south": 14.534548000000001,
+      "east": -86.710518546,
+      "west": -118.365853993
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Malaysia",
+    "name_cn": "马来西亚",
+    "capital": {
+      "name": "Kuala Lumpur",
+      "latitude": 3.1412,
+      "longitude": 101.68653
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ms-MY,en,zh,ta,te,ml,pa,th",
+      "geonameId": 1733045,
+      "isoAlpha3": "MYS",
+      "isoNumeric": "458",
+      "fipsCode": "MY",
+      "population": "31528585",
+      "areaInSqKm": "329750.0",
+      "countryCode": "MY",
+      "currencyCode": "MYR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 7.36333513300002,
+      "south": 0.855000972000028,
+      "east": 119.269721985,
+      "west": 99.6407165520001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Namibia",
+    "name_cn": "纳米比亚",
+    "capital": {
+      "name": "Windhoek",
+      "latitude": -22.55941,
+      "longitude": 17.08323
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-NA,af,de,hz,naq",
+      "geonameId": 3355338,
+      "isoAlpha3": "NAM",
+      "isoNumeric": "516",
+      "fipsCode": "WA",
+      "population": "2448255",
+      "areaInSqKm": "825418.0",
+      "countryCode": "NA",
+      "currencyCode": "NAD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -16.963488173,
+      "south": -28.9706389999999,
+      "east": 25.2617520000001,
+      "west": 11.737502061
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "New Caledonia",
+    "name_cn": "New Caledonia",
+    "capital": {
+      "name": "Noumea",
+      "latitude": -22.27407,
+      "longitude": 166.44884
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "fr-NC",
+      "geonameId": 2139685,
+      "isoAlpha3": "NCL",
+      "isoNumeric": "540",
+      "fipsCode": "NC",
+      "population": "284060",
+      "areaInSqKm": "19060.0",
+      "countryCode": "NC",
+      "currencyCode": "XPF",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": -19.540235966,
+      "south": -22.695222359000002,
+      "east": 168.13386857,
+      "west": 163.56999618400002
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Niger",
+    "name_cn": "尼日尔",
+    "capital": {
+      "name": "Niamey",
+      "latitude": 13.51366,
+      "longitude": 2.1098
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-NE,ha,kr,dje",
+      "geonameId": 2440476,
+      "isoAlpha3": "NER",
+      "isoNumeric": "562",
+      "fipsCode": "NG",
+      "population": "22442948",
+      "areaInSqKm": "1267000.0",
+      "countryCode": "NE",
+      "currencyCode": "XOF",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 23.5149999920001,
+      "south": 11.6937560000001,
+      "east": 15.9990340000001,
+      "west": 0.162193643000023
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Norfolk Island",
+    "name_cn": "Norfolk Island",
+    "capital": {
+      "name": "Kingston",
+      "latitude": -29.05459,
+      "longitude": 167.96628
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-NF",
+      "geonameId": 2155115,
+      "isoAlpha3": "NFK",
+      "isoNumeric": "574",
+      "fipsCode": "NF",
+      "population": "1828",
+      "areaInSqKm": "34.6",
+      "countryCode": "NF",
+      "currencyCode": "AUD",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": -28.995059758000004,
+      "south": -29.0633027,
+      "east": 167.997572934,
+      "west": 167.914101442
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Nigeria",
+    "name_cn": "尼日利亚",
+    "capital": {
+      "name": "Abuja",
+      "latitude": 9.05785,
+      "longitude": 7.49508
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-NG,ha,yo,ig,ff",
+      "geonameId": 2328926,
+      "isoAlpha3": "NGA",
+      "isoNumeric": "566",
+      "fipsCode": "NI",
+      "population": "195874740",
+      "areaInSqKm": "923768.0",
+      "countryCode": "NG",
+      "currencyCode": "NGN",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 13.885645000000068,
+      "south": 4.27058531900002,
+      "east": 14.677982000000043,
+      "west": 2.663560999000026
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Nicaragua",
+    "name_cn": "尼加拉瓜",
+    "capital": {
+      "name": "Managua",
+      "latitude": 12.13282,
+      "longitude": -86.2504
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "es-NI,en",
+      "geonameId": 3617476,
+      "isoAlpha3": "NIC",
+      "isoNumeric": "558",
+      "fipsCode": "NU",
+      "population": "6465513",
+      "areaInSqKm": "129494.0",
+      "countryCode": "NI",
+      "currencyCode": "NIO",
+      "postalCodeFormat": "###-###-#"
+    },
+    "geography": {
+      "north": 15.029737,
+      "south": 10.708055,
+      "east": -82.735454229,
+      "west": -87.69112585500001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "The Netherlands",
+    "name_cn": "The Netherlands",
+    "capital": {
+      "name": "Amsterdam",
+      "latitude": 52.37403,
+      "longitude": 4.88969
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "nl-NL,fy-NL",
+      "geonameId": 2750405,
+      "isoAlpha3": "NLD",
+      "isoNumeric": "528",
+      "fipsCode": "NL",
+      "population": "17231017",
+      "areaInSqKm": "41526.0",
+      "countryCode": "NL",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#### @@"
+    },
+    "geography": {
+      "north": 53.5157125645109,
+      "south": 50.7503674993741,
+      "east": 7.22749859212922,
+      "west": 3.35837827202
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Norway",
+    "name_cn": "挪威",
+    "capital": {
+      "name": "Oslo",
+      "latitude": 59.91273,
+      "longitude": 10.74609
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "no,nb,nn,se,fi",
+      "geonameId": 3144096,
+      "isoAlpha3": "NOR",
+      "isoNumeric": "578",
+      "fipsCode": "NO",
+      "population": "5314336",
+      "areaInSqKm": "324220.0",
+      "countryCode": "NO",
+      "currencyCode": "NOK",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 71.1854764998959,
+      "south": 57.97987783489344,
+      "east": 31.063740342248376,
+      "west": 4.64182374183584
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Nepal",
+    "name_cn": "尼泊尔",
+    "capital": {
+      "name": "Kathmandu",
+      "latitude": 27.70169,
+      "longitude": 85.3206
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ne,en",
+      "geonameId": 1282988,
+      "isoAlpha3": "NPL",
+      "isoNumeric": "524",
+      "fipsCode": "NP",
+      "population": "28087871",
+      "areaInSqKm": "140800.0",
+      "countryCode": "NP",
+      "currencyCode": "NPR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 30.447389748,
+      "south": 26.3479660710001,
+      "east": 88.2015257450001,
+      "west": 80.058450824
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Nauru",
+    "name_cn": "瑙鲁",
+    "capital": {
+      "name": "Yaren District",
+      "latitude": -0.55085,
+      "longitude": 166.9252
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "na,en-NR",
+      "geonameId": 2110425,
+      "isoAlpha3": "NRU",
+      "isoNumeric": "520",
+      "fipsCode": "NR",
+      "population": "12704",
+      "areaInSqKm": "21.0",
+      "countryCode": "NR",
+      "currencyCode": "AUD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -0.502657000000004,
+      "south": -0.5541467234752249,
+      "east": 166.95899600000007,
+      "west": 166.90968999999996
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Niue",
+    "name_cn": "Niue",
+    "capital": {
+      "name": "Alofi",
+      "latitude": -19.05294,
+      "longitude": -169.91957
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "niu,en-NU",
+      "geonameId": 4036232,
+      "isoAlpha3": "NIU",
+      "isoNumeric": "570",
+      "fipsCode": "NE",
+      "population": "2166",
+      "areaInSqKm": "260.0",
+      "countryCode": "NU",
+      "currencyCode": "NZD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -18.952488991000003,
+      "south": -19.154505229,
+      "east": -169.774500025,
+      "west": -169.95010424900002
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "New Zealand",
+    "name_cn": "新西兰",
+    "capital": {
+      "name": "Wellington",
+      "latitude": -41.28664,
+      "longitude": 174.77557
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-NZ,mi",
+      "geonameId": 2186224,
+      "isoAlpha3": "NZL",
+      "isoNumeric": "554",
+      "fipsCode": "NZ",
+      "population": "4885500",
+      "areaInSqKm": "268680.0",
+      "countryCode": "NZ",
+      "currencyCode": "NZD",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": -34.392812824,
+      "south": -47.290029537,
+      "east": -180,
+      "west": 166.72353
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Oman",
+    "name_cn": "阿曼",
+    "capital": {
+      "name": "Muscat",
+      "latitude": 23.58413,
+      "longitude": 58.40778
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-OM,en,bal,ur",
+      "geonameId": 286963,
+      "isoAlpha3": "OMN",
+      "isoNumeric": "512",
+      "fipsCode": "MU",
+      "population": "4829483",
+      "areaInSqKm": "212460.0",
+      "countryCode": "OM",
+      "currencyCode": "OMR",
+      "postalCodeFormat": "###"
+    },
+    "geography": {
+      "north": 26.38837201,
+      "south": 16.650124646000002,
+      "east": 59.839632204000004,
+      "west": 52
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Panama",
+    "name_cn": "巴拿马",
+    "capital": {
+      "name": "Panama City",
+      "latitude": 8.9936,
+      "longitude": -79.51973
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "es-PA,en",
+      "geonameId": 3703430,
+      "isoAlpha3": "PAN",
+      "isoNumeric": "591",
+      "fipsCode": "PM",
+      "population": "4176873",
+      "areaInSqKm": "78200.0",
+      "countryCode": "PA",
+      "currencyCode": "PAB",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 9.6474132494631,
+      "south": 7.20236920646422,
+      "east": -77.1563637579897,
+      "west": -83.0523988577088
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Peru",
+    "name_cn": "秘鲁",
+    "capital": {
+      "name": "Lima",
+      "latitude": -12.04318,
+      "longitude": -77.02824
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "es-PE,qu,ay",
+      "geonameId": 3932488,
+      "isoAlpha3": "PER",
+      "isoNumeric": "604",
+      "fipsCode": "PE",
+      "population": "31989256",
+      "areaInSqKm": "1285220.0",
+      "countryCode": "PE",
+      "currencyCode": "PEN",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": -0.038777,
+      "south": -18.3523111,
+      "east": -68.6523092,
+      "west": -81.328220367
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "French Polynesia",
+    "name_cn": "French Polynesia",
+    "capital": {
+      "name": "Papeete",
+      "latitude": -17.5347,
+      "longitude": -149.56843
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "fr-PF,ty",
+      "geonameId": 4030656,
+      "isoAlpha3": "PYF",
+      "isoNumeric": "258",
+      "fipsCode": "FP",
+      "population": "277679",
+      "areaInSqKm": "4167.0",
+      "countryCode": "PF",
+      "currencyCode": "XPF",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": -7.898066269,
+      "south": -27.649874,
+      "east": -134.92922394,
+      "west": -151.763191635
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Papua New Guinea",
+    "name_cn": "巴布亚新几内亚",
+    "capital": {
+      "name": "Port Moresby",
+      "latitude": -9.47723,
+      "longitude": 147.15089
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-PG,ho,meu,tpi",
+      "geonameId": 2088628,
+      "isoAlpha3": "PNG",
+      "isoNumeric": "598",
+      "fipsCode": "PP",
+      "population": "8606316",
+      "areaInSqKm": "462840.0",
+      "countryCode": "PG",
+      "currencyCode": "PGK",
+      "postalCodeFormat": "###"
+    },
+    "geography": {
+      "north": -1.315125882,
+      "south": -11.655101821,
+      "east": 155.968347972,
+      "west": 140.841969
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Philippines",
+    "name_cn": "菲律宾",
+    "capital": {
+      "name": "Manila",
+      "latitude": 14.6042,
+      "longitude": 120.9822
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "tl,en-PH,fil,ceb,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx",
+      "geonameId": 1694008,
+      "isoAlpha3": "PHL",
+      "isoNumeric": "608",
+      "fipsCode": "RP",
+      "population": "106651922",
+      "areaInSqKm": "300000.0",
+      "countryCode": "PH",
+      "currencyCode": "PHP",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 21.1218854788318,
+      "south": 4.64209796365014,
+      "east": 126.60497402182328,
+      "west": 116.9288644959
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Pakistan",
+    "name_cn": "巴基斯坦",
+    "capital": {
+      "name": "Islamabad",
+      "latitude": 33.72148,
+      "longitude": 73.04329
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ur-PK,en-PK,pa,sd,ps,brh",
+      "geonameId": 1168579,
+      "isoAlpha3": "PAK",
+      "isoNumeric": "586",
+      "fipsCode": "PK",
+      "population": "212215030",
+      "areaInSqKm": "803940.0",
+      "countryCode": "PK",
+      "currencyCode": "PKR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 37.0841070010001,
+      "south": 23.769527435,
+      "east": 77.0132974640001,
+      "west": 60.8729720000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Poland",
+    "name_cn": "波兰",
+    "capital": {
+      "name": "Warsaw",
+      "latitude": 52.22977,
+      "longitude": 21.01178
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "pl",
+      "geonameId": 798544,
+      "isoAlpha3": "POL",
+      "isoNumeric": "616",
+      "fipsCode": "PL",
+      "population": "37978548",
+      "areaInSqKm": "312685.0",
+      "countryCode": "PL",
+      "currencyCode": "PLN",
+      "postalCodeFormat": "##-###"
+    },
+    "geography": {
+      "north": 54.8357886595169,
+      "south": 49.0020465193443,
+      "east": 24.1457828491313,
+      "west": 14.1228850233809
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Saint Pierre and Miquelon",
+    "name_cn": "Saint Pierre and Miquelon",
+    "capital": {
+      "name": "Saint-Pierre",
+      "latitude": 46.77914,
+      "longitude": -56.1773
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "fr-PM",
+      "geonameId": 3424932,
+      "isoAlpha3": "SPM",
+      "isoNumeric": "666",
+      "fipsCode": "SB",
+      "population": "7012",
+      "areaInSqKm": "242.0",
+      "countryCode": "PM",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 47.14403996,
+      "south": 46.782640295,
+      "east": -56.125471721000004,
+      "west": -56.405724729000006
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Pitcairn Islands",
+    "name_cn": "Pitcairn Islands",
+    "capital": {
+      "name": "Adamstown",
+      "latitude": -25.06597,
+      "longitude": -130.10147
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-PN",
+      "geonameId": 4030699,
+      "isoAlpha3": "PCN",
+      "isoNumeric": "612",
+      "fipsCode": "PC",
+      "population": "46",
+      "areaInSqKm": "47.0",
+      "countryCode": "PN",
+      "currencyCode": "NZD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -24.331750000000003,
+      "south": -24.673778000000002,
+      "east": -124.777138999,
+      "west": -128.356974573
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Puerto Rico",
+    "name_cn": "Puerto Rico",
+    "capital": {
+      "name": "San Juan",
+      "latitude": 18.46633,
+      "longitude": -66.10572
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-PR,es-PR",
+      "geonameId": 4566966,
+      "isoAlpha3": "PRI",
+      "isoNumeric": "630",
+      "fipsCode": "RQ",
+      "population": "3195153",
+      "areaInSqKm": "9104.0",
+      "countryCode": "PR",
+      "currencyCode": "USD",
+      "postalCodeFormat": "#####-####"
+    },
+    "geography": {
+      "north": 18.5159687270238,
+      "south": 17.9269004394039,
+      "east": -65.2442099429843,
+      "west": -67.9461344974432
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Palestine",
+    "name_cn": "Palestine",
+    "capital": {
+      "name": "",
+      "latitude": 31.50161,
+      "longitude": 34.46672
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-PS",
+      "geonameId": 6254930,
+      "isoAlpha3": "PSE",
+      "isoNumeric": "275",
+      "fipsCode": "WE",
+      "population": "4569087",
+      "areaInSqKm": "5970.0",
+      "countryCode": "PS",
+      "currencyCode": "ILS",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 32.5520881030001,
+      "south": 31.2200520000001,
+      "east": 35.5740520000001,
+      "west": 34.2186994300001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Portugal",
+    "name_cn": "葡萄牙",
+    "capital": {
+      "name": "Lisbon",
+      "latitude": 38.71667,
+      "longitude": -9.13333
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "pt-PT,mwl",
+      "geonameId": 2264397,
+      "isoAlpha3": "PRT",
+      "isoNumeric": "620",
+      "fipsCode": "PO",
+      "population": "10281762",
+      "areaInSqKm": "92391.0",
+      "countryCode": "PT",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "####-###"
+    },
+    "geography": {
+      "north": 42.154311127408,
+      "south": 36.96125,
+      "east": -6.18915930748288,
+      "west": -9.50052660716588
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Palau",
+    "name_cn": "帕劳",
+    "capital": {
+      "name": "Ngerulmud",
+      "latitude": 7.50077,
+      "longitude": 134.6238
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "pau,sov,en-PW,tox,ja,fil,zh",
+      "geonameId": 1559582,
+      "isoAlpha3": "PLW",
+      "isoNumeric": "585",
+      "fipsCode": "PS",
+      "population": "17907",
+      "areaInSqKm": "458.0",
+      "countryCode": "PW",
+      "currencyCode": "USD",
+      "postalCodeFormat": "96940"
+    },
+    "geography": {
+      "north": 8.46966,
+      "south": 2.8036,
+      "east": 134.72307,
+      "west": 131.11788
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Paraguay",
+    "name_cn": "巴拉圭",
+    "capital": {
+      "name": "Asunción",
+      "latitude": -25.28646,
+      "longitude": -57.647
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "es-PY,gn",
+      "geonameId": 3437598,
+      "isoAlpha3": "PRY",
+      "isoNumeric": "600",
+      "fipsCode": "PA",
+      "population": "6956071",
+      "areaInSqKm": "406750.0",
+      "countryCode": "PY",
+      "currencyCode": "PYG",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": -19.2896000004762,
+      "south": -27.5918335646318,
+      "east": -54.2589239104835,
+      "west": -62.6446174378624
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Qatar",
+    "name_cn": "卡塔尔",
+    "capital": {
+      "name": "Doha",
+      "latitude": 25.28545,
+      "longitude": 51.53096
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-QA,es",
+      "geonameId": 289688,
+      "isoAlpha3": "QAT",
+      "isoNumeric": "634",
+      "fipsCode": "QA",
+      "population": "2781677",
+      "areaInSqKm": "11437.0",
+      "countryCode": "QA",
+      "currencyCode": "QAR",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 26.1578818880001,
+      "south": 24.4711111230001,
+      "east": 51.6315537500001,
+      "west": 50.750030995
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Réunion",
+    "name_cn": "Réunion",
+    "capital": {
+      "name": "Saint-Denis",
+      "latitude": -20.88231,
+      "longitude": 55.4504
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-RE",
+      "geonameId": 935317,
+      "isoAlpha3": "REU",
+      "isoNumeric": "638",
+      "fipsCode": "RE",
+      "population": "776948",
+      "areaInSqKm": "2517.0",
+      "countryCode": "RE",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": -20.8718271541163,
+      "south": -21.3896307613732,
+      "east": 55.8366292267104,
+      "west": 55.2165259976951
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Romania",
+    "name_cn": "罗马尼亚",
+    "capital": {
+      "name": "Bucharest",
+      "latitude": 44.43225,
+      "longitude": 26.10626
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "ro,hu,rom",
+      "geonameId": 798549,
+      "isoAlpha3": "ROU",
+      "isoNumeric": "642",
+      "fipsCode": "RO",
+      "population": "19473936",
+      "areaInSqKm": "237500.0",
+      "countryCode": "RO",
+      "currencyCode": "RON",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 48.2653912058468,
+      "south": 43.6190166499833,
+      "east": 29.7152986907701,
+      "west": 20.2619949052262
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Serbia",
+    "name_cn": "塞尔维亚",
+    "capital": {
+      "name": "Belgrade",
+      "latitude": 44.80401,
+      "longitude": 20.46513
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "sr,hu,bs,rom",
+      "geonameId": 6290252,
+      "isoAlpha3": "SRB",
+      "isoNumeric": "688",
+      "fipsCode": "RI",
+      "population": "6982084",
+      "areaInSqKm": "88361.0",
+      "countryCode": "RS",
+      "currencyCode": "RSD",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 46.189446,
+      "south": 42.2315030010001,
+      "east": 23.0063870060001,
+      "west": 18.838044043
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Russia",
+    "name_cn": "俄罗斯",
+    "capital": {
+      "name": "Moscow",
+      "latitude": 55.75222,
+      "longitude": 37.61556
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,kbd,krc,av,sah,nog",
+      "geonameId": 2017370,
+      "isoAlpha3": "RUS",
+      "isoNumeric": "643",
+      "fipsCode": "RS",
+      "population": "144478050",
+      "areaInSqKm": "1.71E7",
+      "countryCode": "RU",
+      "currencyCode": "RUB",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 81.857323999,
+      "south": 41.185353,
+      "east": -169.05,
+      "west": 19.25
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Rwanda",
+    "name_cn": "卢旺达",
+    "capital": {
+      "name": "Kigali",
+      "latitude": -1.94995,
+      "longitude": 30.05885
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "rw,en-RW,fr-RW,sw",
+      "geonameId": 49518,
+      "isoAlpha3": "RWA",
+      "isoNumeric": "646",
+      "fipsCode": "RW",
+      "population": "12301939",
+      "areaInSqKm": "26338.0",
+      "countryCode": "RW",
+      "currencyCode": "RWF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -1.04716670707785,
+      "south": -2.84023010213747,
+      "east": 30.8997466415943,
+      "west": 28.8617308206209
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Saudi Arabia",
+    "name_cn": "沙特阿拉伯",
+    "capital": {
+      "name": "Riyadh",
+      "latitude": 24.68773,
+      "longitude": 46.72185
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-SA",
+      "geonameId": 102358,
+      "isoAlpha3": "SAU",
+      "isoNumeric": "682",
+      "fipsCode": "SA",
+      "population": "33699947",
+      "areaInSqKm": "1960582.0",
+      "countryCode": "SA",
+      "currencyCode": "SAR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 32.1542840000001,
+      "south": 16.379528001,
+      "east": 55.6667,
+      "west": 34.495693
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Solomon Islands",
+    "name_cn": "所罗门群岛",
+    "capital": {
+      "name": "Honiara",
+      "latitude": -9.43333,
+      "longitude": 159.95
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-SB,tpi",
+      "geonameId": 2103350,
+      "isoAlpha3": "SLB",
+      "isoNumeric": "090",
+      "fipsCode": "BP",
+      "population": "652858",
+      "areaInSqKm": "28450.0",
+      "countryCode": "SB",
+      "currencyCode": "SBD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -6.58897397999996,
+      "south": -11.88141903,
+      "east": 166.99122396,
+      "west": 155.51227512
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Seychelles",
+    "name_cn": "塞舌尔",
+    "capital": {
+      "name": "Victoria",
+      "latitude": -4.62001,
+      "longitude": 55.45501
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-SC,fr-SC",
+      "geonameId": 241170,
+      "isoAlpha3": "SYC",
+      "isoNumeric": "690",
+      "fipsCode": "SE",
+      "population": "96762",
+      "areaInSqKm": "455.0",
+      "countryCode": "SC",
+      "currencyCode": "SCR",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -4.288184846,
+      "south": -9.753682643000001,
+      "east": 56.29439287500001,
+      "west": 46.209040537
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Sudan",
+    "name_cn": "苏丹",
+    "capital": {
+      "name": "Khartoum",
+      "latitude": 15.55177,
+      "longitude": 32.53241
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "ar-SD,en,fia",
+      "geonameId": 366755,
+      "isoAlpha3": "SDN",
+      "isoNumeric": "729",
+      "fipsCode": "SU",
+      "population": "41801533",
+      "areaInSqKm": "1861484.0",
+      "countryCode": "SD",
+      "currencyCode": "SDG",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 23.1464092140001,
+      "south": 9.48888700000003,
+      "east": 38.5822502880001,
+      "west": 21.8146345210001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Sweden",
+    "name_cn": "瑞典",
+    "capital": {
+      "name": "Stockholm",
+      "latitude": 59.32938,
+      "longitude": 18.06871
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "sv-SE,se,sma,fi-SE",
+      "geonameId": 2661886,
+      "isoAlpha3": "SWE",
+      "isoNumeric": "752",
+      "fipsCode": "SW",
+      "population": "10183175",
+      "areaInSqKm": "449964.0",
+      "countryCode": "SE",
+      "currencyCode": "SEK",
+      "postalCodeFormat": "### ##"
+    },
+    "geography": {
+      "north": 69.0599672666879,
+      "south": 55.3374438220002,
+      "east": 24.155245238099,
+      "west": 11.109499387126
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Singapore",
+    "name_cn": "新加坡",
+    "capital": {
+      "name": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "cmn,en-SG,ms-SG,ta-SG,zh-SG",
+      "geonameId": 1880251,
+      "isoAlpha3": "SGP",
+      "isoNumeric": "702",
+      "fipsCode": "SN",
+      "population": "5638676",
+      "areaInSqKm": "692.7",
+      "countryCode": "SG",
+      "currencyCode": "SGD",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 1.47077483208476,
+      "south": 1.21065456224784,
+      "east": 104.043617447514,
+      "west": 103.605700705134
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Saint Helena",
+    "name_cn": "Saint Helena",
+    "capital": {
+      "name": "Jamestown",
+      "latitude": -15.92488,
+      "longitude": -5.71816
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-SH",
+      "geonameId": 3370751,
+      "isoAlpha3": "SHN",
+      "isoNumeric": "654",
+      "fipsCode": "SH",
+      "population": "7460",
+      "areaInSqKm": "410.0",
+      "countryCode": "SH",
+      "currencyCode": "SHP",
+      "postalCodeFormat": "STHL 1ZZ"
+    },
+    "geography": {
+      "north": -7.890104563,
+      "south": -16.027609832,
+      "east": -5.633942957,
+      "west": -14.420536315000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Slovenia",
+    "name_cn": "斯洛文尼亚",
+    "capital": {
+      "name": "Ljubljana",
+      "latitude": 46.05108,
+      "longitude": 14.50513
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "sl,sh",
+      "geonameId": 3190538,
+      "isoAlpha3": "SVN",
+      "isoNumeric": "705",
+      "fipsCode": "SI",
+      "population": "2067372",
+      "areaInSqKm": "20273.0",
+      "countryCode": "SI",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 46.8766275518195,
+      "south": 45.421812998164,
+      "east": 16.6106311807,
+      "west": 13.3753342064709
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Svalbard and Jan Mayen",
+    "name_cn": "Svalbard and Jan Mayen",
+    "capital": {
+      "name": "Longyearbyen",
+      "latitude": 78.22334,
+      "longitude": 15.64689
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "no,ru",
+      "geonameId": 607072,
+      "isoAlpha3": "SJM",
+      "isoNumeric": "744",
+      "fipsCode": "SV",
+      "population": "2550",
+      "areaInSqKm": "62049.0",
+      "countryCode": "SJ",
+      "currencyCode": "NOK",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 80.75778849400001,
+      "south": 79.20282063100001,
+      "east": 33.516285124,
+      "west": 17.711518465
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Slovakia",
+    "name_cn": "斯洛伐克",
+    "capital": {
+      "name": "Bratislava",
+      "latitude": 48.14816,
+      "longitude": 17.10674
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "sk,hu",
+      "geonameId": 3057568,
+      "isoAlpha3": "SVK",
+      "isoNumeric": "703",
+      "fipsCode": "LO",
+      "population": "5447011",
+      "areaInSqKm": "48845.0",
+      "countryCode": "SK",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "### ##"
+    },
+    "geography": {
+      "north": 49.6137360000001,
+      "south": 47.7313590000001,
+      "east": 22.5657383340001,
+      "west": 16.8334234020001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Sierra Leone",
+    "name_cn": "塞拉利昂",
+    "capital": {
+      "name": "Freetown",
+      "latitude": 8.48714,
+      "longitude": -13.2356
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-SL,men,tem",
+      "geonameId": 2403846,
+      "isoAlpha3": "SLE",
+      "isoNumeric": "694",
+      "fipsCode": "SL",
+      "population": "7650154",
+      "areaInSqKm": "71740.0",
+      "countryCode": "SL",
+      "currencyCode": "SLL",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 9.99997300000007,
+      "south": 6.92343700100002,
+      "east": -10.2716829999999,
+      "west": -13.302128077
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "San Marino",
+    "name_cn": "圣马力诺",
+    "capital": {
+      "name": "San Marino",
+      "latitude": 43.93667,
+      "longitude": 12.44639
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "it-SM",
+      "geonameId": 3168068,
+      "isoAlpha3": "SMR",
+      "isoNumeric": "674",
+      "fipsCode": "SM",
+      "population": "33785",
+      "areaInSqKm": "61.2",
+      "countryCode": "SM",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "4789#"
+    },
+    "geography": {
+      "north": 43.9920929668161,
+      "south": 43.8937002210188,
+      "east": 12.51584904544211,
+      "west": 12.403605260165023
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Senegal",
+    "name_cn": "塞内加尔",
+    "capital": {
+      "name": "Dakar",
+      "latitude": 14.6937,
+      "longitude": -17.44406
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-SN,wo,fuc,mnk",
+      "geonameId": 2245662,
+      "isoAlpha3": "SEN",
+      "isoNumeric": "686",
+      "fipsCode": "SG",
+      "population": "15854360",
+      "areaInSqKm": "196190.0",
+      "countryCode": "SN",
+      "currencyCode": "XOF",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 16.692957200000002,
+      "south": 12.3072891,
+      "east": -11.3457684,
+      "west": -17.52917099
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Somalia",
+    "name_cn": "索马里",
+    "capital": {
+      "name": "Mogadishu",
+      "latitude": 2.03711,
+      "longitude": 45.34375
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "so-SO,ar-SO,it,en-SO",
+      "geonameId": 51537,
+      "isoAlpha3": "SOM",
+      "isoNumeric": "706",
+      "fipsCode": "SO",
+      "population": "15008154",
+      "areaInSqKm": "637657.0",
+      "countryCode": "SO",
+      "currencyCode": "SOS",
+      "postalCodeFormat": "@@  #####"
+    },
+    "geography": {
+      "north": 11.987905502,
+      "south": -1.66186031,
+      "east": 51.415227890000004,
+      "west": 40.991247200000004
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Suriname",
+    "name_cn": "苏里南",
+    "capital": {
+      "name": "Paramaribo",
+      "latitude": 5.86638,
+      "longitude": -55.16682
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "nl-SR,en,srn,hns,jv",
+      "geonameId": 3382998,
+      "isoAlpha3": "SUR",
+      "isoNumeric": "740",
+      "fipsCode": "NS",
+      "population": "575991",
+      "areaInSqKm": "163270.0",
+      "countryCode": "SR",
+      "currencyCode": "SRD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 6.005155563000001,
+      "south": 1.837306,
+      "east": -53.9799257,
+      "west": -58.0715215
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "South Sudan",
+    "name_cn": "南苏丹",
+    "capital": {
+      "name": "Juba",
+      "latitude": 4.85165,
+      "longitude": 31.58247
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en",
+      "geonameId": 7909807,
+      "isoAlpha3": "SSD",
+      "isoNumeric": "728",
+      "fipsCode": "OD",
+      "population": "8260490",
+      "areaInSqKm": "644329.0",
+      "countryCode": "SS",
+      "currencyCode": "SSP",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 12.236389,
+      "south": 3.48898000000003,
+      "east": 35.9489970000001,
+      "west": 23.4408490000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "São Tomé and Príncipe",
+    "name_cn": "São Tomé and Príncipe",
+    "capital": {
+      "name": "São Tomé",
+      "latitude": 0.33654,
+      "longitude": 6.72732
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "pt-ST",
+      "geonameId": 2410758,
+      "isoAlpha3": "STP",
+      "isoNumeric": "678",
+      "fipsCode": "TP",
+      "population": "197700",
+      "areaInSqKm": "1001.0",
+      "countryCode": "ST",
+      "currencyCode": "STN",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 1.693975253,
+      "south": 0.02066156,
+      "east": 7.462481939000001,
+      "west": 6.462357307
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "El Salvador",
+    "name_cn": "萨尔瓦多",
+    "capital": {
+      "name": "San Salvador",
+      "latitude": 13.68935,
+      "longitude": -89.18718
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "es-SV",
+      "geonameId": 3585968,
+      "isoAlpha3": "SLV",
+      "isoNumeric": "222",
+      "fipsCode": "ES",
+      "population": "6420744",
+      "areaInSqKm": "21040.0",
+      "countryCode": "SV",
+      "currencyCode": "USD",
+      "postalCodeFormat": "CP ####"
+    },
+    "geography": {
+      "north": 14.450557001,
+      "south": 13.153004391,
+      "east": -87.692162,
+      "west": -90.134654476
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Sint Maarten",
+    "name_cn": "Sint Maarten",
+    "capital": {
+      "name": "Philipsburg",
+      "latitude": 18.026,
+      "longitude": -63.04582
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "nl,en",
+      "geonameId": 7609695,
+      "isoAlpha3": "SXM",
+      "isoNumeric": "534",
+      "fipsCode": "NN",
+      "population": "40654",
+      "areaInSqKm": "21.0",
+      "countryCode": "SX",
+      "currencyCode": "ANG",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 18.064114800000002,
+      "south": 18.005472226000002,
+      "east": -63.013826345000005,
+      "west": -63.13898356200001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Syria",
+    "name_cn": "叙利亚",
+    "capital": {
+      "name": "Damascus",
+      "latitude": 33.5102,
+      "longitude": 36.29128
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-SY,ku,hy,arc,fr,en",
+      "geonameId": 163843,
+      "isoAlpha3": "SYR",
+      "isoNumeric": "760",
+      "fipsCode": "SY",
+      "population": "16906283",
+      "areaInSqKm": "185180.0",
+      "countryCode": "SY",
+      "currencyCode": "SYP",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 37.3205689060001,
+      "south": 32.311136,
+      "east": 42.376309,
+      "west": 35.587211
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Eswatini",
+    "name_cn": "斯威士兰",
+    "capital": {
+      "name": "Mbabane",
+      "latitude": -26.31667,
+      "longitude": 31.13333
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-SZ,ss-SZ",
+      "geonameId": 934841,
+      "isoAlpha3": "SWZ",
+      "isoNumeric": "748",
+      "fipsCode": "WZ",
+      "population": "1136191",
+      "areaInSqKm": "17363.0",
+      "countryCode": "SZ",
+      "currencyCode": "SZL",
+      "postalCodeFormat": "@###"
+    },
+    "geography": {
+      "north": -25.7179199999999,
+      "south": -27.317402,
+      "east": 32.1349066610001,
+      "west": 30.7906400000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Turks and Caicos Islands",
+    "name_cn": "Turks and Caicos Islands",
+    "capital": {
+      "name": "Cockburn Town",
+      "latitude": 21.46122,
+      "longitude": -71.14188
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-TC",
+      "geonameId": 3576916,
+      "isoAlpha3": "TCA",
+      "isoNumeric": "796",
+      "fipsCode": "TK",
+      "population": "37665",
+      "areaInSqKm": "430.0",
+      "countryCode": "TC",
+      "currencyCode": "USD",
+      "postalCodeFormat": "TKCA 1ZZ"
+    },
+    "geography": {
+      "north": 21.865152583,
+      "south": 21.422660546000003,
+      "east": -71.12611550300001,
+      "west": -72.482806678
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Chad",
+    "name_cn": "乍得",
+    "capital": {
+      "name": "N'Djamena",
+      "latitude": 12.10672,
+      "longitude": 15.0444
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-TD,ar-TD,sre",
+      "geonameId": 2434508,
+      "isoAlpha3": "TCD",
+      "isoNumeric": "148",
+      "fipsCode": "CD",
+      "population": "15477751",
+      "areaInSqKm": "1284000.0",
+      "countryCode": "TD",
+      "currencyCode": "XAF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 23.4523611160001,
+      "south": 7.44297500000005,
+      "east": 24.0000000000001,
+      "west": 13.47
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "French Southern Territories",
+    "name_cn": "French Southern Territories",
+    "capital": {
+      "name": "Port-aux-Français",
+      "latitude": -49.34916,
+      "longitude": 70.21937
+    },
+    "info": {
+      "continent": "AN",
+      "languages": "fr",
+      "geonameId": 1546748,
+      "isoAlpha3": "ATF",
+      "isoNumeric": "260",
+      "fipsCode": "FS",
+      "population": "140",
+      "areaInSqKm": "7829.0",
+      "countryCode": "TF",
+      "currencyCode": "EUR",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -37.792188233000005,
+      "south": -49.733459473,
+      "east": 77.599027201,
+      "west": 50.165338948000006
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Togo",
+    "name_cn": "多哥",
+    "capital": {
+      "name": "Lomé",
+      "latitude": 6.12874,
+      "longitude": 1.22154
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-TG,ee,hna,kbp,dag,ha",
+      "geonameId": 2363686,
+      "isoAlpha3": "TGO",
+      "isoNumeric": "768",
+      "fipsCode": "TO",
+      "population": "7889094",
+      "areaInSqKm": "56785.0",
+      "countryCode": "TG",
+      "currencyCode": "XOF",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 11.1394984250001,
+      "south": 6.11225958700004,
+      "east": 1.80890722900006,
+      "west": -0.144041999999956
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Thailand",
+    "name_cn": "泰国",
+    "capital": {
+      "name": "Bangkok",
+      "latitude": 13.75398,
+      "longitude": 100.50144
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "th,en",
+      "geonameId": 1605651,
+      "isoAlpha3": "THA",
+      "isoNumeric": "764",
+      "fipsCode": "TH",
+      "population": "69428524",
+      "areaInSqKm": "514000.0",
+      "countryCode": "TH",
+      "currencyCode": "THB",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 20.465143,
+      "south": 5.612851,
+      "east": 105.636812,
+      "west": 97.34339600000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Tajikistan",
+    "name_cn": "塔吉克斯坦",
+    "capital": {
+      "name": "Dushanbe",
+      "latitude": 38.53575,
+      "longitude": 68.77905
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "tg,ru",
+      "geonameId": 1220409,
+      "isoAlpha3": "TJK",
+      "isoNumeric": "762",
+      "fipsCode": "TI",
+      "population": "9100837",
+      "areaInSqKm": "143100.0",
+      "countryCode": "TJ",
+      "currencyCode": "TJS",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 41.0443670000001,
+      "south": 36.672037001,
+      "east": 75.1539560000001,
+      "west": 67.3420120000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Tokelau",
+    "name_cn": "Tokelau",
+    "capital": {
+      "name": "",
+      "latitude": -9.38516,
+      "longitude": -171.24675
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "tkl,en-TK",
+      "geonameId": 4031074,
+      "isoAlpha3": "TKL",
+      "isoNumeric": "772",
+      "fipsCode": "TL",
+      "population": "1466",
+      "areaInSqKm": "10.0",
+      "countryCode": "TK",
+      "currencyCode": "NZD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -9.108554317000001,
+      "south": -9.227558487000001,
+      "east": -171.768725832,
+      "west": -171.864837864
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Timor-Leste",
+    "name_cn": "东帝汶",
+    "capital": {
+      "name": "Dili",
+      "latitude": -8.55861,
+      "longitude": 125.57361
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "tet,pt-TL,id,en",
+      "geonameId": 1966436,
+      "isoAlpha3": "TLS",
+      "isoNumeric": "626",
+      "fipsCode": "TT",
+      "population": "1267972",
+      "areaInSqKm": "15007.0",
+      "countryCode": "TL",
+      "currencyCode": "USD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -8.12687015533447,
+      "south": -9.504650115966797,
+      "east": 127.34211730957031,
+      "west": 124.04464721679688
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Turkmenistan",
+    "name_cn": "土库曼斯坦",
+    "capital": {
+      "name": "Ashgabat",
+      "latitude": 37.95,
+      "longitude": 58.38333
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "tk,ru,uz",
+      "geonameId": 1218197,
+      "isoAlpha3": "TKM",
+      "isoNumeric": "795",
+      "fipsCode": "TX",
+      "population": "5850908",
+      "areaInSqKm": "488100.0",
+      "countryCode": "TM",
+      "currencyCode": "TMT",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 42.7982617260001,
+      "south": 35.1290930000001,
+      "east": 66.7073530000001,
+      "west": 52.4455780650001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Tunisia",
+    "name_cn": "突尼斯",
+    "capital": {
+      "name": "Tunis",
+      "latitude": 36.81897,
+      "longitude": 10.16579
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "ar-TN,fr",
+      "geonameId": 2464461,
+      "isoAlpha3": "TUN",
+      "isoNumeric": "788",
+      "fipsCode": "TS",
+      "population": "11565204",
+      "areaInSqKm": "163610.0",
+      "countryCode": "TN",
+      "currencyCode": "TND",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 37.5419886350001,
+      "south": 30.2415834110001,
+      "east": 11.608143339,
+      "west": 7.52252789300007
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Tonga",
+    "name_cn": "汤加",
+    "capital": {
+      "name": "Nuku'alofa",
+      "latitude": -21.13683,
+      "longitude": -175.20114
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "to,en-TO",
+      "geonameId": 4032283,
+      "isoAlpha3": "TON",
+      "isoNumeric": "776",
+      "fipsCode": "TN",
+      "population": "103197",
+      "areaInSqKm": "748.0",
+      "countryCode": "TO",
+      "currencyCode": "TOP",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -15.566146670329,
+      "south": -21.4564838739226,
+      "east": -173.902137947337,
+      "west": -175.67962556356
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Türkiye",
+    "name_cn": "Türkiye",
+    "capital": {
+      "name": "Ankara",
+      "latitude": 39.91987,
+      "longitude": 32.85427
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "tr-TR,ku,diq,az,av",
+      "geonameId": 298795,
+      "isoAlpha3": "TUR",
+      "isoNumeric": "792",
+      "fipsCode": "TU",
+      "population": "82319724",
+      "areaInSqKm": "780580.0",
+      "countryCode": "TR",
+      "currencyCode": "TRY",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 42.104895001,
+      "south": 35.8121761290001,
+      "east": 44.81812800000006,
+      "west": 25.6665057269225
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Trinidad and Tobago",
+    "name_cn": "特立尼达和多巴哥",
+    "capital": {
+      "name": "Port of Spain",
+      "latitude": 10.66668,
+      "longitude": -61.51889
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-TT,hns,fr,es,zh",
+      "geonameId": 3573591,
+      "isoAlpha3": "TTO",
+      "isoNumeric": "780",
+      "fipsCode": "TD",
+      "population": "1389858",
+      "areaInSqKm": "5128.0",
+      "countryCode": "TT",
+      "currencyCode": "TTD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 11.346715214000001,
+      "south": 10.04244253,
+      "east": -60.517431155000004,
+      "west": -61.931208993000006
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Tuvalu",
+    "name_cn": "图瓦卢",
+    "capital": {
+      "name": "Funafuti",
+      "latitude": -8.52425,
+      "longitude": 179.19417
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "tvl,en,sm,gil",
+      "geonameId": 2110297,
+      "isoAlpha3": "TUV",
+      "isoNumeric": "798",
+      "fipsCode": "TV",
+      "population": "11508",
+      "areaInSqKm": "26.0",
+      "countryCode": "TV",
+      "currencyCode": "AUD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -5.64246006144929,
+      "south": -10.791580457901,
+      "east": 179.871049968689,
+      "west": 176.059056543963
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Taiwan",
+    "name_cn": "Taiwan",
+    "capital": {
+      "name": "Taipei",
+      "latitude": 25.04776,
+      "longitude": 121.53185
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "zh-TW,zh,nan,hak",
+      "geonameId": 1668284,
+      "isoAlpha3": "TWN",
+      "isoNumeric": "158",
+      "fipsCode": "TW",
+      "population": "23451837",
+      "areaInSqKm": "35980.0",
+      "countryCode": "TW",
+      "currencyCode": "TWD",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 25.299417496,
+      "south": 21.896860123,
+      "east": 122.00658988900001,
+      "west": 119.54105147400001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Tanzania",
+    "name_cn": "坦桑尼亚",
+    "capital": {
+      "name": "Dodoma",
+      "latitude": -6.17221,
+      "longitude": 35.73947
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "sw-TZ,en,ar",
+      "geonameId": 149590,
+      "isoAlpha3": "TZA",
+      "isoNumeric": "834",
+      "fipsCode": "TZ",
+      "population": "56318348",
+      "areaInSqKm": "945087.0",
+      "countryCode": "TZ",
+      "currencyCode": "TZS",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -0.984396999999944,
+      "south": -11.761254,
+      "east": 40.4448279960001,
+      "west": 29.34
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Ukraine",
+    "name_cn": "乌克兰",
+    "capital": {
+      "name": "Kyiv",
+      "latitude": 50.45466,
+      "longitude": 30.5238
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "uk,ru-UA,rom,pl,hu",
+      "geonameId": 690791,
+      "isoAlpha3": "UKR",
+      "isoNumeric": "804",
+      "fipsCode": "UP",
+      "population": "44622516",
+      "areaInSqKm": "603700.0",
+      "countryCode": "UA",
+      "currencyCode": "UAH",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 52.3793713250001,
+      "south": 44.3820571900001,
+      "east": 40.22048033,
+      "west": 22.137078
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Uganda",
+    "name_cn": "乌干达",
+    "capital": {
+      "name": "Kampala",
+      "latitude": 0.31628,
+      "longitude": 32.58219
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-UG,lg,sw,ar",
+      "geonameId": 226074,
+      "isoAlpha3": "UGA",
+      "isoNumeric": "800",
+      "fipsCode": "UG",
+      "population": "42723139",
+      "areaInSqKm": "236040.0",
+      "countryCode": "UG",
+      "currencyCode": "UGX",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 4.23136926690327,
+      "south": -1.48153052848838,
+      "east": 35.0010535324228,
+      "west": 29.573465338129
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "U.S. Outlying Islands",
+    "name_cn": "U.S. Outlying Islands",
+    "capital": {
+      "name": "",
+      "latitude": 5.875,
+      "longitude": -162.057
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "en-UM",
+      "geonameId": 5854968,
+      "isoAlpha3": "UMI",
+      "isoNumeric": "581",
+      "fipsCode": "",
+      "population": "0",
+      "areaInSqKm": "0.0",
+      "countryCode": "UM",
+      "currencyCode": "USD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 28.219882000000002,
+      "south": -0.380836502,
+      "east": 166.657201837,
+      "west": -177.396594001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "United States",
+    "name_cn": "美国",
+    "capital": {
+      "name": "Washington",
+      "latitude": 38.89511,
+      "longitude": -77.03637
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-US,es-US,haw,fr",
+      "geonameId": 6252001,
+      "isoAlpha3": "USA",
+      "isoNumeric": "840",
+      "fipsCode": "US",
+      "population": "327167434",
+      "areaInSqKm": "9629091.0",
+      "countryCode": "US",
+      "currencyCode": "USD",
+      "postalCodeFormat": "#####-####"
+    },
+    "geography": {
+      "north": 49.3844873,
+      "south": 24.543938895,
+      "east": -66.949185723,
+      "west": -124.73259849600001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Uruguay",
+    "name_cn": "乌拉圭",
+    "capital": {
+      "name": "Montevideo",
+      "latitude": -34.90328,
+      "longitude": -56.18816
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "es-UY",
+      "geonameId": 3439705,
+      "isoAlpha3": "URY",
+      "isoNumeric": "858",
+      "fipsCode": "UY",
+      "population": "3449299",
+      "areaInSqKm": "176220.0",
+      "countryCode": "UY",
+      "currencyCode": "UYU",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": -30.0855024328825,
+      "south": -34.9740543027064,
+      "east": -53.1810509360802,
+      "west": -58.4393489790361
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Uzbekistan",
+    "name_cn": "乌兹别克斯坦",
+    "capital": {
+      "name": "Tashkent",
+      "latitude": 41.26465,
+      "longitude": 69.21627
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "uz,ru,tg",
+      "geonameId": 1512440,
+      "isoAlpha3": "UZB",
+      "isoNumeric": "860",
+      "fipsCode": "UZ",
+      "population": "32955400",
+      "areaInSqKm": "447400.0",
+      "countryCode": "UZ",
+      "currencyCode": "UZS",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 45.5900750010001,
+      "south": 37.172269828,
+      "east": 73.1489460000001,
+      "west": 55.9982180000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Vatican City",
+    "name_cn": "梵蒂冈",
+    "capital": {
+      "name": "Vatican City",
+      "latitude": 41.90225,
+      "longitude": 12.4533
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "la,it,fr",
+      "geonameId": 3164670,
+      "isoAlpha3": "VAT",
+      "isoNumeric": "336",
+      "fipsCode": "VT",
+      "population": "921",
+      "areaInSqKm": "0.44",
+      "countryCode": "VA",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": 41.90743830885576,
+      "south": 41.90027960306854,
+      "east": 12.45837546629481,
+      "west": 12.44570678169205
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "St Vincent and Grenadines",
+    "name_cn": "St Vincent and Grenadines",
+    "capital": {
+      "name": "Kingstown",
+      "latitude": 13.15527,
+      "longitude": -61.22742
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-VC,fr",
+      "geonameId": 3577815,
+      "isoAlpha3": "VCT",
+      "isoNumeric": "670",
+      "fipsCode": "VC",
+      "population": "110211",
+      "areaInSqKm": "389.0",
+      "countryCode": "VC",
+      "currencyCode": "XCD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 13.3831850654817,
+      "south": 12.5839734740001,
+      "east": -61.1149220521562,
+      "west": -61.4608524069999
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Venezuela",
+    "name_cn": "委内瑞拉",
+    "capital": {
+      "name": "Caracas",
+      "latitude": 10.48801,
+      "longitude": -66.87919
+    },
+    "info": {
+      "continent": "SA",
+      "languages": "es-VE",
+      "geonameId": 3625428,
+      "isoAlpha3": "VEN",
+      "isoNumeric": "862",
+      "fipsCode": "VE",
+      "population": "28870195",
+      "areaInSqKm": "912050.0",
+      "countryCode": "VE",
+      "currencyCode": "VES",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": 12.197061539,
+      "south": 0.647529,
+      "east": -59.805508700000004,
+      "west": -73.367039
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "British Virgin Islands",
+    "name_cn": "British Virgin Islands",
+    "capital": {
+      "name": "Road Town",
+      "latitude": 18.42693,
+      "longitude": -64.62079
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-VG",
+      "geonameId": 3577718,
+      "isoAlpha3": "VGB",
+      "isoNumeric": "092",
+      "fipsCode": "VI",
+      "population": "29802",
+      "areaInSqKm": "153.0",
+      "countryCode": "VG",
+      "currencyCode": "USD",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 18.749786617,
+      "south": 18.380604991000002,
+      "east": -64.270411427,
+      "west": -64.716683919
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "U.S. Virgin Islands",
+    "name_cn": "U.S. Virgin Islands",
+    "capital": {
+      "name": "Charlotte Amalie",
+      "latitude": 18.3419,
+      "longitude": -64.9307
+    },
+    "info": {
+      "continent": "NA",
+      "languages": "en-VI",
+      "geonameId": 4796775,
+      "isoAlpha3": "VIR",
+      "isoNumeric": "850",
+      "fipsCode": "VQ",
+      "population": "106977",
+      "areaInSqKm": "352.0",
+      "countryCode": "VI",
+      "currencyCode": "USD",
+      "postalCodeFormat": "#####-####"
+    },
+    "geography": {
+      "north": 18.415382,
+      "south": 17.673931,
+      "east": -64.565193,
+      "west": -65.101333
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Vietnam",
+    "name_cn": "越南",
+    "capital": {
+      "name": "Hanoi",
+      "latitude": 21.0245,
+      "longitude": 105.84117
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "vi,en,fr,zh,km",
+      "geonameId": 1562822,
+      "isoAlpha3": "VNM",
+      "isoNumeric": "704",
+      "fipsCode": "VM",
+      "population": "95540395",
+      "areaInSqKm": "329560.0",
+      "countryCode": "VN",
+      "currencyCode": "VND",
+      "postalCodeFormat": "######"
+    },
+    "geography": {
+      "north": 23.392650600000003,
+      "south": 8.639453000000001,
+      "east": 109.461706733,
+      "west": 102.1439155
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Vanuatu",
+    "name_cn": "瓦努阿图",
+    "capital": {
+      "name": "Port Vila",
+      "latitude": -17.73648,
+      "longitude": 168.31366
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "bi,en-VU,fr-VU",
+      "geonameId": 2134431,
+      "isoAlpha3": "VUT",
+      "isoNumeric": "548",
+      "fipsCode": "NH",
+      "population": "292680",
+      "areaInSqKm": "12200.0",
+      "countryCode": "VU",
+      "currencyCode": "VUV",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -13.0717069251352,
+      "south": -20.2524399918312,
+      "east": 169.904111113607,
+      "west": 166.541563758726
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Wallis and Futuna",
+    "name_cn": "Wallis and Futuna",
+    "capital": {
+      "name": "Mata-Utu",
+      "latitude": -13.28163,
+      "longitude": -176.17453
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "wls,fud,fr-WF",
+      "geonameId": 4034749,
+      "isoAlpha3": "WLF",
+      "isoNumeric": "876",
+      "fipsCode": "WF",
+      "population": "16025",
+      "areaInSqKm": "274.0",
+      "countryCode": "WF",
+      "currencyCode": "XPF",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": -13.2169133113924,
+      "south": -14.3124693963595,
+      "east": -176.161967235958,
+      "west": -178.181766889147
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Samoa",
+    "name_cn": "萨摩亚",
+    "capital": {
+      "name": "Apia",
+      "latitude": -13.83333,
+      "longitude": -171.76666
+    },
+    "info": {
+      "continent": "OC",
+      "languages": "sm,en-WS",
+      "geonameId": 4034894,
+      "isoAlpha3": "WSM",
+      "isoNumeric": "882",
+      "fipsCode": "WS",
+      "population": "196130",
+      "areaInSqKm": "2944.0",
+      "countryCode": "WS",
+      "currencyCode": "WST",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -13.439860841000002,
+      "south": -14.04874773,
+      "east": -171.42334263700002,
+      "west": -172.80340826
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Kosovo",
+    "name_cn": "Kosovo",
+    "capital": {
+      "name": "Pristina",
+      "latitude": 42.67272,
+      "longitude": 21.16688
+    },
+    "info": {
+      "continent": "EU",
+      "languages": "sq,sr",
+      "geonameId": 831053,
+      "isoAlpha3": "XKX",
+      "isoNumeric": "0",
+      "fipsCode": "KV",
+      "population": "1845300",
+      "areaInSqKm": "10908.0",
+      "countryCode": "XK",
+      "currencyCode": "EUR",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 43.2676851730001,
+      "south": 41.857641001,
+      "east": 21.7898670000001,
+      "west": 20.014284
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Yemen",
+    "name_cn": "也门",
+    "capital": {
+      "name": "Sanaa",
+      "latitude": 15.35472,
+      "longitude": 44.20667
+    },
+    "info": {
+      "continent": "AS",
+      "languages": "ar-YE",
+      "geonameId": 69543,
+      "isoAlpha3": "YEM",
+      "isoNumeric": "887",
+      "fipsCode": "YM",
+      "population": "28498687",
+      "areaInSqKm": "527970.0",
+      "countryCode": "YE",
+      "currencyCode": "YER",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": 18.999633000000003,
+      "south": 12.108116044,
+      "east": 54.534396920000006,
+      "west": 42.534004661000004
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Mayotte",
+    "name_cn": "Mayotte",
+    "capital": {
+      "name": "Mamoudzou",
+      "latitude": -12.78234,
+      "longitude": 45.22878
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "fr-YT",
+      "geonameId": 1024031,
+      "isoAlpha3": "MYT",
+      "isoNumeric": "175",
+      "fipsCode": "MF",
+      "population": "279471",
+      "areaInSqKm": "374.0",
+      "countryCode": "YT",
+      "currencyCode": "EUR",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": -12.6507257773157,
+      "south": -13.0000903911179,
+      "east": 45.2999850886235,
+      "west": 45.0398136630555
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "South Africa",
+    "name_cn": "南非",
+    "capital": {
+      "name": "Pretoria",
+      "latitude": -25.74486,
+      "longitude": 28.18783
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",
+      "geonameId": 953987,
+      "isoAlpha3": "ZAF",
+      "isoNumeric": "710",
+      "fipsCode": "SF",
+      "population": "57779622",
+      "areaInSqKm": "1219912.0",
+      "countryCode": "ZA",
+      "currencyCode": "ZAR",
+      "postalCodeFormat": "####"
+    },
+    "geography": {
+      "north": -22.1250300579999,
+      "south": -34.8341700029999,
+      "east": 32.944984945,
+      "west": 16.45189
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Zambia",
+    "name_cn": "赞比亚",
+    "capital": {
+      "name": "Lusaka",
+      "latitude": -15.40669,
+      "longitude": 28.28713
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-ZM,bem,loz,lun,lue,ny,toi",
+      "geonameId": 895949,
+      "isoAlpha3": "ZMB",
+      "isoNumeric": "894",
+      "fipsCode": "ZA",
+      "population": "17351822",
+      "areaInSqKm": "752614.0",
+      "countryCode": "ZM",
+      "currencyCode": "ZMW",
+      "postalCodeFormat": "#####"
+    },
+    "geography": {
+      "north": -8.20328399999994,
+      "south": -18.077418,
+      "east": 33.7090304810001,
+      "west": 21.999350925
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  },
+  {
+    "name_en": "Zimbabwe",
+    "name_cn": "津巴布韦",
+    "capital": {
+      "name": "Harare",
+      "latitude": -17.82772,
+      "longitude": 31.05337
+    },
+    "info": {
+      "continent": "AF",
+      "languages": "en-ZW,sn,nr,nd",
+      "geonameId": 878675,
+      "isoAlpha3": "ZWE",
+      "isoNumeric": "716",
+      "fipsCode": "ZI",
+      "population": "14439018",
+      "areaInSqKm": "390580.0",
+      "countryCode": "ZW",
+      "currencyCode": "ZWL",
+      "postalCodeFormat": ""
+    },
+    "geography": {
+      "north": -15.609318999,
+      "south": -22.421998999,
+      "east": 33.0682360000001,
+      "west": 25.2373680000001
+    },
+    "provinces": [],
+    "ethnicGroups": []
+  }
+]
